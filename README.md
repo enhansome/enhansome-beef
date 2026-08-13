@@ -1,1 +1,263 @@
-# enhansome-beef
+<div style="text-align:center"><img src="github_banner_transparent.png"/></div>
+
+# Awesome Beef with stars
+
+A curated list of awesome Beef frameworks, libraries and resources.
+
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,644 | 🐛 25 | 🌐 Python | 📅 2026-08-05.
+
+# Summary
+
+* [Official Resources](#official-resources)
+* [Tools](#tools)
+  * [Installers](#installers)
+  * [LSP](#lsp)
+  * [Editors](#editors)
+  * [Binding Generators](#binding-generators)
+* [Frameworks and Libraries](#frameworks-and-libraries)
+  * [Algorithms](#algorithms)
+    * [Colors](#colors)
+    * [Cryptography and Hashing](#cryptography-and-hashing)
+    * [Noise](#noise)
+  * [Audio](#audio)
+  * [Caching](#caching)
+  * [Command Line Interface Development](#command-line-interface-development)
+  * [Coroutines](#coroutines)
+  * [Game Development](#game-development)
+    * [Engines](#engines)
+    * [Frameworks](#frameworks)
+    * [Libraries](#libraries)
+  * [Font](#font)
+  * [GUI](#gui)
+  * [IoC](#ioc)
+  * [Image](#image)
+  * [Interoperability](#interoperability)
+  * [Linq](#linq)
+  * [Logging](#logging)
+  * [Multimedia](#multimedia)
+  * [Networking](#networking)
+  * [Scripting Engines](#scripting-engines)
+  * [Serialization](#serialization)
+  * [Themes](#themes)
+  * [Text Processing](#text-processing)
+* [Projects and Articles](#projects-and-articles)
+  * [Dynamic Linking](#dynamic-linking)
+  * [Networking](#networking)
+* [Contributing](#contributing)
+
+# Official resources
+
+*The official documentation and resource for the Beef programming language.*
+
+* [Official website](https://beeflang.org) - Official website of the Beef programming language.
+* [Official documentation](https://beeflang.org/docs) - Official documentation explaining how the language works and its philosophy.
+* [Corelib documentation](https://www.beeflang.org/docs/doxygen/corlib/html/index.html) - Auto generated documentation for the core library.
+* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,839 | 🐛 252 | 🌐 C++ | 📅 2026-08-13 - Repository hosting the language and its associated IDE.
+
+# Tools
+
+## LSP
+
+[Beef LSP](https://github.com/MineGame159/Beef/tree/lsp/BeefLsp) ⭐ 9 | 🐛 1 | 🌐 C++ | 📅 2023-07-07 - An unofficial LSP server which works with any LSP-compatible editor and a Visual Studio Code extension.
+
+## Editors
+
+[Try Beef](https://trybeef.netlify.app/) - A web based editor for compiling and running simple Beef programs.
+
+## Binding Generators
+
+* [Cpp2Beef](https://git.unicon-gmbh.de/Rune/Cpp2Beef) - Beef Binding Generator for C and C-Style C++.
+
+# Frameworks and Libraries
+
+## Algorithms
+
+*Libraries providing implementations of algorithms*
+
+### Colors
+
+* [RGBeef](https://github.com/farism/RGBeef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2022-11-02 - Create, convert, and manipulate color spaces.
+
+### Cryptography and Hashing
+
+* [Beef-Hash](https://github.com/thibmo/Beef-Hash) ⭐ 5 | 🐛 0 | 🌐 HyPhy | 📅 2020-11-02 - Collection of hashing algorithms.
+* [Beef-OpenSSL](https://github.com/thibmo/Beef-OpenSSL) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2022-08-24 - Beef port of OpenSSL.
+
+### Noise
+
+* [FastNoise\_Beef](https://github.com/EinScott/FastNoise_Beef) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2022-03-31 - Beef port of the FastNoise Lite library.
+
+## Audio
+
+* [BeefBass](https://github.com/disarray2077/BeefBass) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2022-07-10 - Beef Wrapper for the 'Bass' Audio Library.
+* [Beef-FMOD](https://github.com/LauraRozier/Beef-FMOD) ⭐ 1 | 🐛 1 | 🌐 Beef | 📅 2023-08-08 - Beef bindings for the FMOD audio processing library.
+
+## Caching
+
+* [System.Caching](https://github.com/thibmo/System.Caching) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2021-06-06 - A BeefLang implementation of .net System.Runtime.Caching, useful to prevent double-triggering, response caching, data caching, etc.
+
+## Command Line Interface Development
+
+*Libraries for building CLI applications*
+
+* [CowieCLI](https://github.com/RogueMacro/CowieCLI) ⭐ 4 | 🐛 0 | 🌐 HyPhy | 📅 2020-09-05 - Awesome command line arguments parsing library.
+
+## Coroutines
+
+*Libraries related to coroutines and multithread programming*
+
+* [Minicoro-beef](https://github.com/jazzbre/minicoro-beef) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - Wrapper for the C asymetric coroutines library.
+
+## Game Development
+
+*Awesome game development libraries and frameworks.*
+
+### Engines
+
+* [Strawberry](https://github.com/MattThorson/Strawberry) ⭐ 106 | 🐛 3 | 🌐 Beef | 📅 2021-12-29 - A 2D game engine using SDL, focused on usability and simplicity.
+* [Tilengine-beef](https://github.com/rootbeerking/Tilengine-Beef) ⭐ 9 | 🐛 1 | 📅 2020-12-17 - Beef Language wrapper for Tilengine 2D Graphics Engine.
+
+### Frameworks
+
+* [Raylib-beef 3.7](https://github.com/M0n7y5/raylib-beef) ⭐ 53 | 🐛 2 | 🌐 Beef | 📅 2022-04-07 - Handmade bindings for the version 3.7 of raylib.
+* [Pile](https://github.com/EinScott/Pile) ⭐ 29 | 🐛 1 | 🌐 Beef | 📅 2024-07-08 - A simple extendable game framework.
+* [Raylib-beef](https://github.com/Starpelly/raylib-beef) ⭐ 24 | 🐛 1 | 🌐 Beef | 📅 2026-06-02 - Autogenerated raylib bindings for the newest version of raylib.
+
+### Libraries
+
+* [SoLoud-beef](https://github.com/jarikomppa/soloud) ⭐ 2,145 | 🐛 122 | 🌐 C | 📅 2024-08-13 - easy to use, free, portable c/c++ audio engine for games.
+* [Opengl-beef](https://github.com/MineGame159/opengl-beef) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2020-06-08 - OpenGL loader for Beef.
+* [Glfw-beef](https://github.com/MineGame159/glfw-beef) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2023-01-24 - Beef wrapper library for GLFW.
+* [BGFX-beef](https://github.com/jazzbre/bgfx-beef) ⭐ 12 | 🐛 0 | 🌐 Beef | 📅 2025-08-17 - A Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+  * Also linked in the official [BGFX repository](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,392 | 🐛 287 | 🌐 C | 📅 2026-08-13.
+* [Box2D-beef](https://github.com/jazzbre/box2d-beef) ⭐ 11 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - 2D physics engine for games.
+* [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
+* [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2025-06-17 - Beef wrapper library for Direct3D 11.
+* [SDL3-Beef](https://github.com/Booklordofthedings/SDL3-Beef) ⭐ 9 | 🐛 1 | 🌐 Beef | 📅 2025-06-02 - A binding for SDL3 to Beef, trying to be as close to the original interface as possible.
+* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for [sokol](https://github.com/floooh/sokol) ⭐ 10,194 | 🐛 137 | 🌐 C | 📅 2026-08-11 headers.
+* [SDL2-beef](https://github.com/jazzbre/sdl2-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-03-20 - SDL2 Wrapper, synced with SDL2 shipped with Beef.
+* [Chipmunk2D-beef](https://github.com/jazzbre/Chipmunk2D-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - A simple, lightweight, fast and portable 2D rigid body physics library.
+* [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,625 | 🐛 760 | 🌐 C++ | 📅 2026-08-13 bindings
+* [WGPU-beef](https://github.com/MineGame159/wgpu-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2023-07-19 - Beef wrapper library for WGPU (more specifically wgpu-native).
+* [Shaderc-beef](https://github.com/MineGame159/shaderc-beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2023-01-12 - A Beef wrapper library for [Shaderc](https://github.com/google/shaderc) ⭐ 2,175 | 🐛 163 | 🌐 C++ | 📅 2026-08-06.
+* [SPIRV-Cross-Beef](https://github.com/jayrulez/SPIRV-Cross-Beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2025-11-02 - SPIRV-Cross bindings.
+* [Vulkan-Beef](https://git.unicon-gmbh.de/Rune/Vulkan-Beef) - Vulkan Bindings for Beef similar to Vulkan-Hpp.
+
+## Font
+
+* [BeefFNT](https://github.com/disarray2077/BeefFNT) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2021-11-24 - A Beef library for reading and writing AngelCode bitmap fonts in binary, XML, and text.
+
+## GUI
+
+*Libraries and frameworks for general GUI programming*
+
+* [Mince](https://github.com/SteveSmithSoftware/Mince) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2023-08-08 - A GUI Toolkit for use with the Beef Programming Language.
+* [Ultralight-beef](https://github.com/kumikumi/Ultralight-beef) ⭐ 8 | 🐛 0 | 🌐 Beef | 📅 2022-02-26 - Write UI code for your game/application with web technologies (HTML/CSS/JS) using a lightweight web renderer.
+* [LibUI-beef](https://github.com/guofeiyu2022/libui-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2025-04-05 - A libui-ng binding for Beeflang
+* [NativeFileDialog-beef](https://github.com/jazzbre/nativefiledialog-beef) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - Portable library to invoke native file dialogs.
+* ImGui
+  * [ImGui-beef](https://github.com/RogueMacro/imgui-beef) ⭐ 25 | 🐛 0 | 🌐 Beef | 📅 2023-06-19 - Beef wrapper library for ImGui.
+  * [ImGuibgfx-beef](https://github.com/jazzbre/imguibgfx-beef) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - ImGui wrapper using SDL2 and BGFX.
+  * [ImGui-Vulkan-beef](https://github.com/MineGame159/imgui-vulkan-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2022-02-14 - Vulkan backend for Dear ImGui in Beef.
+
+## IoC
+
+*Inversion of Control libraries and frameworks*
+
+* [Steak.DependencyInjection](https://github.com/RogueMacro/Steak.DependencyInjection) ⭐ 4 | 🐛 0 | 🌐 HyPhy | 📅 2021-02-01 - Simple dependency injection library.
+
+## Image
+
+*Libraries for image loading and processing*
+
+* [StbImageBeef](https://github.com/StbBeef/StbImageBeef) ⭐ 6 | 🐛 0 | 🌐 Beef | 📅 2022-07-28 - Beef port of the stb\_image.h C header library.
+
+## Interoperability
+
+*Libraries related to interoperability*
+
+* [Collagen](https://github.com/zerkawei/Collagen) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2025-01-18 - Generates a C API to export Beef objects and to allow foreign implementations of Beef interfaces.
+
+## Linq
+
+*Linq related libraries.*
+
+* [Beef.Linq](https://github.com/disarray2077/Beef.Linq) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2025-12-30 - An awesome Beef library to mimic .NETs linq, but better and faster.
+
+## Logging
+
+*Logging libraries and frameworks.*
+
+* [Steak.Logging](https://github.com/RogueMacro/Steak.Logging) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2022-12-21 - An awesome logging library for Beef.
+
+## Multimedia
+
+*Multimedia related libraries.*
+
+* [FFmpeg-Beef](https://github.com/disarray2077/FFmpeg-Beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2022-11-24 - FFmpeg bindings for BeefLang.
+
+## Networking
+
+*Networking related libraries*
+
+* [Beef-Net](https://github.com/thibmo/Beef-Net) ⭐ 8 | 🐛 1 | 🌐 Beef | 📅 2022-09-02 - BeefLang networking library, based on lNet
+
+## Scripting Engines
+
+*Awesome scripting libraries.*
+
+* [Lua-beef](https://github.com/thibmo/lua-beef) ⭐ 8 | 🐛 0 | 🌐 Beef | 📅 2021-05-28 - BeefLang wrapper library for Lua.
+* [LuaTinker-Beef](https://github.com/disarray2077/LuaTinker-Beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2025-08-22 - A library to bind BeefLang and Lua together.
+* [KeraLua-Beef](https://github.com/disarray2077/KeraLua-Beef) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2025-08-22 - Native bindings of Lua 5.4 for BeefLang.
+
+## Serialization
+
+*Libraries for serializing and parsing text*
+
+* [bon](https://github.com/EinScott/bon) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2026-03-26 - A reflection based structure serialization library designed for Beef.
+* [Atma.Json](https://github.com/xposure/Atma.Json) ⭐ 8 | 🐛 4 | 🌐 Beef | 📅 2021-11-05 - Json serialization framework.
+* [Beef-toml](https://github.com/killamaaki/beef-toml) ⭐ 7 | 🐛 1 | 🌐 HyPhy | 📅 2020-07-20 - Toml parser/serializer library.
+* [json](https://github.com/EinScott/json) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2024-04-06 - A light arbitrary JSON tree read and write library.
+* [Xml-Beef](https://github.com/thibmo/Xml-Beef) ⭐ 4 | 🐛 2 | 🌐 Beef | 📅 2024-07-28 - Single-file XML parser in Beef with doctype support.
+* [beef\_sead](https://github.com/tomwjerry/beef_sead) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2025-07-21 - Base64 encoder and decoder.
+
+## Themes
+
+*IDE themes.*
+
+* [SimplyDark](https://github.com/M0n7y5/BeefIDE-SimplyDark) ⭐ 18 | 🐛 1 | 📅 2025-01-30 - Simple dark theme.
+* [OneDarkPro](https://github.com/thibmo/BeefIDE-OneDarkPro) ⭐ 3 | 🐛 0 | 📅 2020-11-08 - Atom's iconic One Dark theme.
+* [Base16TomorrowDark](https://github.com/Jmacklin308/BeefIDE-Base16TomorrowDark) ⭐ 2 | 🐛 0 | 📅 2023-10-21 - Base 16 Tomorrow Dark Theme.
+* [SimplyLight](https://github.com/MineBill/SimplyLight) ⭐ 2 | 🐛 0 | 📅 2025-01-31 - Simple Visual Studio -esque light theme.
+* [Dracula](https://github.com/fhornung/beef-dracula) ⭐ 1 | 🐛 0 | 📅 2022-01-17 - Dracula theme.
+
+## Text Processing
+
+*Libraries for parsing and manipulating plain texts.*
+
+* [Oregano](https://github.com/zerkawei/Oregano) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2024-06-14 - Regex implementation supporting captures, lookarounds and backreferences.
+* [TinyRegex](https://github.com/disarray2077/TinyRegex) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2022-01-19 - Tiny implementation of a subset of Regex.
+
+# Projects and Articles
+
+*To show or explain what beef is capable of.*
+
+## Dynamic Linking
+
+* [Beef DLL Creation & Research](https://m0n7y5.github.io/beef-dll-creation-and-research-2/) - Showcase of a fully functional Beef DLL.
+
+## Networking
+
+* [SampleListener](https://github.com/jairopaiva/SampleListener) ⭐ 1 | 🐛 1 | 🌐 HyPhy | 📅 2020-09-15 - Example of an echo server showing the use of System.Net.Socket to listen for clients connections.
+
+***
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Jonathan-Racaud/awesome-beef/blob/master/CONTRIBUTING.md) ⭐ 260 | 🐛 0 | 📅 2026-07-20 first.
+
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Jonathan-Racaud/awesome-beef/pulls) ⭐ 260 | 🐛 0 | 📅 2026-07-20 by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
