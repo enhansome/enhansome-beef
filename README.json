@@ -184,7 +184,7 @@
             "last_commit": "2024-08-13T04:10:58Z",
             "owner": "jarikomppa",
             "repo": "soloud",
-            "stars": 2145
+            "stars": 2146
           }
         },
         {
@@ -228,10 +228,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-13T01:24:27Z",
+                "last_commit": "2026-08-13T23:36:03Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17392
+                "stars": 17396
               }
             }
           ],
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:32.430Z",
+    "last_updated": "2026-08-14T00:02:12.494Z",
     "original_repository": "Jonathan-Racaud/awesome-beef",
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
     "enhanced_repository": "enhansome/enhansome-beef",
