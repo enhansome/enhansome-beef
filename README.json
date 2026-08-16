@@ -231,7 +231,7 @@
                 "last_commit": "2026-08-15T23:14:12Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17397
+                "stars": 17404
               }
             }
           ],
@@ -280,7 +280,7 @@
           "repo_info": {
             "archived": false,
             "language": "Beef",
-            "last_commit": "2025-06-17T12:41:30Z",
+            "last_commit": "2026-08-16T16:59:44Z",
             "owner": "aharabada",
             "repo": "directx-beef",
             "stars": 9
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:38:38.860Z",
+    "last_updated": "2026-08-16T23:37:43.927Z",
     "original_repository": "Jonathan-Racaud/awesome-beef",
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
     "enhanced_repository": "enhansome/enhansome-beef",
