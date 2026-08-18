@@ -228,10 +228,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-17T23:33:49Z",
+                "last_commit": "2026-08-18T20:42:46Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17406
+                "stars": 17408
               }
             }
           ],
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:41:11.654Z",
+    "last_updated": "2026-08-18T23:41:09.390Z",
     "original_repository": "Jonathan-Racaud/awesome-beef",
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
     "enhanced_repository": "enhansome/enhansome-beef",
