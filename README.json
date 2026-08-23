@@ -189,7 +189,7 @@
                     "last_commit": "2024-08-13T04:10:58Z",
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2154
+                    "stars": 2156
                   }
                 },
                 {
@@ -236,7 +236,7 @@
                         "archived": false,
                         "id": 3925242,
                         "language": "C++",
-                        "last_commit": "2026-08-22T18:03:06Z",
+                        "last_commit": "2026-08-23T04:44:44Z",
                         "owner": "bkaradzic",
                         "repo": "bgfx",
                         "stars": 17427
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:39:21.561Z",
+    "last_updated": "2026-08-23T23:39:54.936Z",
     "original_repository": "Jonathan-Racaud/awesome-beef",
     "original_repository_id": 260760825,
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
