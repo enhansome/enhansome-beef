@@ -1,10 +1,81 @@
 {
   "items": [
     {
+      "description": "The official documentation and resource for the Beef programming language.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official repository",
+          "description": "Repository hosting the language and its associated IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203406425,
+            "language": "C++",
+            "last_commit": "2026-08-24T09:04:15Z",
+            "owner": "beefytech",
+            "repo": "Beef",
+            "stars": 2845
+          }
+        }
+      ],
+      "title": "Official resources"
+    },
+    {
       "description": null,
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Beef LSP",
+              "description": "An unofficial LSP server which works with any LSP-compatible editor and a Visual Studio Code extension.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 525821957,
+                "language": "C++",
+                "last_commit": "2023-07-07T12:23:14Z",
+                "owner": "MineGame159",
+                "repo": "Beef",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LSP"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RGBeef",
+                  "description": "Create, convert, and manipulate color spaces.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 560509386,
+                    "language": "Beef",
+                    "last_commit": "2022-11-02T05:56:35Z",
+                    "owner": "farism",
+                    "repo": "RGBeef",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Colors"
+            },
             {
               "children": [
                 {
@@ -41,6 +112,28 @@
               "description": null,
               "node_type": "group",
               "title": "Cryptography and Hashing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FastNoise_Beef",
+                  "description": "Beef port of the FastNoise Lite library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321053758,
+                    "language": "Beef",
+                    "last_commit": "2022-03-31T15:59:09Z",
+                    "owner": "EinScott",
+                    "repo": "FastNoise_Beef",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Noise"
             }
           ],
           "description": "Libraries providing implementations of algorithms",
@@ -83,6 +176,72 @@
           "description": null,
           "node_type": "group",
           "title": "Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "System.Caching",
+              "description": "A BeefLang implementation of .net System.Runtime.Caching, useful to prevent double-triggering, response caching, data caching, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373272658,
+                "language": "Beef",
+                "last_commit": "2021-06-06T21:37:33Z",
+                "owner": "LauraRozier",
+                "repo": "System.Caching",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Caching"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CowieCLI",
+              "description": "Awesome command line arguments parsing library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280658801,
+                "language": "HyPhy",
+                "last_commit": "2020-09-05T14:22:33Z",
+                "owner": "RogueMacro",
+                "repo": "CowieCLI",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Libraries for building CLI applications",
+          "node_type": "group",
+          "title": "Command Line Interface Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Minicoro-beef",
+              "description": "Wrapper for the C asymetric coroutines library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330354791,
+                "language": "Beef",
+                "last_commit": "2025-03-20T12:39:21Z",
+                "owner": "jazzbre",
+                "repo": "minicoro-beef",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Libraries related to coroutines and multithread programming",
+          "node_type": "group",
+          "title": "Coroutines"
         },
         {
           "children": [
@@ -189,7 +348,7 @@
                     "last_commit": "2024-08-13T04:10:58Z",
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2156
+                    "stars": 2157
                   }
                 },
                 {
@@ -239,7 +398,7 @@
                         "last_commit": "2026-08-23T04:44:44Z",
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17427
+                        "stars": 17429
                       }
                     }
                   ],
@@ -432,6 +591,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "BeefFNT",
+              "description": "A Beef library for reading and writing AngelCode bitmap fonts in binary, XML, and text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429950010,
+                "language": "Beef",
+                "last_commit": "2021-11-24T00:11:52Z",
+                "owner": "disarray2077",
+                "repo": "BeefFNT",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Font"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Mince",
               "description": "A GUI Toolkit for use with the Beef Programming Language.",
               "children": [],
@@ -546,6 +727,160 @@
           "description": "Libraries and frameworks for general GUI programming",
           "node_type": "group",
           "title": "GUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Steak.DependencyInjection",
+              "description": "Simple dependency injection library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333224762,
+                "language": "HyPhy",
+                "last_commit": "2021-02-01T11:02:18Z",
+                "owner": "RogueMacro",
+                "repo": "Steak.DependencyInjection",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Inversion of Control libraries and frameworks",
+          "node_type": "group",
+          "title": "IoC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StbImageBeef",
+              "description": "Beef port of the stb_image.h C header library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341416204,
+                "language": "Beef",
+                "last_commit": "2022-07-28T01:00:37Z",
+                "owner": "StbBeef",
+                "repo": "StbImageBeef",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Libraries for image loading and processing",
+          "node_type": "group",
+          "title": "Image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Collagen",
+              "description": "Generates a C API to export Beef objects and to allow foreign implementations of Beef interfaces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579144999,
+                "language": "Beef",
+                "last_commit": "2025-01-18T13:54:49Z",
+                "owner": "zerkawei",
+                "repo": "Collagen",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Libraries related to interoperability",
+          "node_type": "group",
+          "title": "Interoperability"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beef.Linq",
+              "description": "An awesome Beef library to mimic .NETs linq, but better and faster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 634920309,
+                "language": "Beef",
+                "last_commit": "2025-12-30T01:00:12Z",
+                "owner": "disarray2077",
+                "repo": "Beef.Linq",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "Linq related libraries.",
+          "node_type": "group",
+          "title": "Linq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Steak.Logging",
+              "description": "An awesome logging library for Beef.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261439123,
+                "language": "Beef",
+                "last_commit": "2022-12-21T17:23:38Z",
+                "owner": "RogueMacro",
+                "repo": "Steak.Logging",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "Logging libraries and frameworks.",
+          "node_type": "group",
+          "title": "Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FFmpeg-Beef",
+              "description": "FFmpeg bindings for BeefLang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569958060,
+                "language": "Beef",
+                "last_commit": "2022-11-24T03:19:11Z",
+                "owner": "disarray2077",
+                "repo": "FFmpeg-Beef",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Multimedia related libraries.",
+          "node_type": "group",
+          "title": "Multimedia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beef-Net",
+              "description": "BeefLang networking library, based on lNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312919170,
+                "language": "Beef",
+                "last_commit": "2022-09-02T02:26:11Z",
+                "owner": "LauraRozier",
+                "repo": "Beef-Net",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "Networking related libraries",
+          "node_type": "group",
+          "title": "Networking"
         },
         {
           "children": [
@@ -820,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:39:54.936Z",
+    "last_updated": "2026-08-24T14:29:23.887Z",
     "original_repository": "Jonathan-Racaud/awesome-beef",
     "original_repository_id": 260760825,
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
