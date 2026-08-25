@@ -12,7 +12,7 @@
             "archived": false,
             "id": 203406425,
             "language": "C++",
-            "last_commit": "2026-08-24T09:04:15Z",
+            "last_commit": "2026-08-25T08:32:48Z",
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2846
@@ -259,7 +259,7 @@
                     "last_commit": "2021-12-29T07:52:54Z",
                     "owner": "MaddyThorson",
                     "repo": "StrawberryBF",
-                    "stars": 106
+                    "stars": 107
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                     "last_commit": "2024-08-13T04:10:58Z",
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2159
+                    "stars": 2165
                   }
                 },
                 {
@@ -395,10 +395,10 @@
                         "archived": false,
                         "id": 3925242,
                         "language": "C++",
-                        "last_commit": "2026-08-25T05:57:58Z",
+                        "last_commit": "2026-08-25T14:13:29Z",
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17431
+                        "stars": 17432
                       }
                     }
                   ],
@@ -808,7 +808,7 @@
                 "last_commit": "2025-12-30T01:00:12Z",
                 "owner": "disarray2077",
                 "repo": "Beef.Linq",
-                "stars": 9
+                "stars": 10
               }
             }
           ],
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:02.825Z",
+    "last_updated": "2026-08-25T23:43:02.956Z",
     "original_repository": "Jonathan-Racaud/awesome-beef",
     "original_repository_id": 260760825,
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
