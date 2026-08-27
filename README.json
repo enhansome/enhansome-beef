@@ -12,7 +12,7 @@
             "archived": false,
             "id": 203406425,
             "language": "C++",
-            "last_commit": "2026-08-25T08:32:48Z",
+            "last_commit": "2026-08-27T04:42:17Z",
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2846
@@ -1155,9 +1155,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:58.262Z",
-    "original_repository": "Jonathan-Racaud/awesome-beef",
-    "original_repository_id": 260760825,
+    "last_updated": "2026-08-27T11:27:48.513Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 260760825,
+      "language": null,
+      "last_commit": "2026-07-20T01:31:21Z",
+      "owner": "Jonathan-Racaud",
+      "repo": "awesome-beef",
+      "stars": 262
+    },
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
     "enhanced_repository": "enhansome/enhansome-beef",
     "enhanced_repository_description": null,
