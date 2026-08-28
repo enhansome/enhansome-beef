@@ -12,11 +12,12 @@
             "archived": false,
             "id": 203406425,
             "language": "C++",
-            "last_commit": "2026-08-27T04:42:17Z",
+            "last_commit": "2026-08-27T12:05:21Z",
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2846
-          }
+          },
+          "first_seen": "2026-08-28T06:57:29.877Z"
         }
       ],
       "title": "Official resources"
@@ -39,7 +40,8 @@
                 "owner": "MineGame159",
                 "repo": "Beef",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": null,
@@ -69,7 +71,8 @@
                     "owner": "farism",
                     "repo": "RGBeef",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ],
               "description": null,
@@ -91,7 +94,8 @@
                     "owner": "LauraRozier",
                     "repo": "Beef-Hash",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -106,7 +110,8 @@
                     "owner": "LauraRozier",
                     "repo": "Beef-OpenSSL",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ],
               "description": null,
@@ -128,7 +133,8 @@
                     "owner": "EinScott",
                     "repo": "FastNoise_Beef",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ],
               "description": null,
@@ -155,7 +161,8 @@
                 "owner": "disarray2077",
                 "repo": "BeefBass",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -170,7 +177,8 @@
                 "owner": "LauraRozier",
                 "repo": "Beef-FMOD",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": null,
@@ -192,7 +200,8 @@
                 "owner": "LauraRozier",
                 "repo": "System.Caching",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": null,
@@ -214,7 +223,8 @@
                 "owner": "RogueMacro",
                 "repo": "CowieCLI",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Libraries for building CLI applications",
@@ -236,7 +246,8 @@
                 "owner": "jazzbre",
                 "repo": "minicoro-beef",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Libraries related to coroutines and multithread programming",
@@ -260,7 +271,8 @@
                     "owner": "MaddyThorson",
                     "repo": "StrawberryBF",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -275,7 +287,8 @@
                     "owner": "rootbeerking",
                     "repo": "Tilengine-Beef",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ],
               "description": null,
@@ -297,7 +310,8 @@
                     "owner": "M0n7y5",
                     "repo": "raylib-beef",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -312,7 +326,8 @@
                     "owner": "EinScott",
                     "repo": "Pile",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -327,7 +342,8 @@
                     "owner": "Starpelly",
                     "repo": "raylib-beef",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ],
               "description": null,
@@ -348,8 +364,9 @@
                     "last_commit": "2024-08-13T04:10:58Z",
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2166
-                  }
+                    "stars": 2167
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -364,7 +381,8 @@
                     "owner": "MineGame159",
                     "repo": "opengl-beef",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -379,7 +397,8 @@
                     "owner": "MineGame159",
                     "repo": "glfw-beef",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -395,11 +414,12 @@
                         "archived": false,
                         "id": 3925242,
                         "language": "C++",
-                        "last_commit": "2026-08-26T06:40:47Z",
+                        "last_commit": "2026-08-27T19:27:49Z",
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17433
-                      }
+                        "stars": 17437
+                      },
+                      "first_seen": "2026-08-28T06:57:29.877Z"
                     }
                   ],
                   "repo_info": {
@@ -410,7 +430,8 @@
                     "owner": "jazzbre",
                     "repo": "bgfx-beef",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -425,7 +446,8 @@
                     "owner": "jazzbre",
                     "repo": "box2d-beef",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -440,7 +462,8 @@
                     "owner": "SedulousWorks",
                     "repo": "Bulkan",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -455,7 +478,8 @@
                     "owner": "aharabada",
                     "repo": "directx-beef",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -470,7 +494,8 @@
                     "owner": "Booklordofthedings",
                     "repo": "SDL3-Beef",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -485,7 +510,8 @@
                     "owner": "kochol",
                     "repo": "sokol-beef",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -500,7 +526,8 @@
                     "owner": "jazzbre",
                     "repo": "sdl2-beef",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -515,7 +542,8 @@
                     "owner": "jazzbre",
                     "repo": "Chipmunk2D-beef",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -530,7 +558,8 @@
                     "owner": "SedulousWorks",
                     "repo": "Dxc-Beef",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -545,7 +574,8 @@
                     "owner": "MineGame159",
                     "repo": "wgpu-beef",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -560,7 +590,8 @@
                     "owner": "MineGame159",
                     "repo": "shaderc-beef",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -575,7 +606,8 @@
                     "owner": "SedulousWorks",
                     "repo": "SPIRV-Cross-Beef",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ],
               "description": null,
@@ -602,7 +634,8 @@
                 "owner": "disarray2077",
                 "repo": "BeefFNT",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": null,
@@ -624,7 +657,8 @@
                 "owner": "SteveSmithSoftware",
                 "repo": "Mince",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -639,7 +673,8 @@
                 "owner": "kumikumi",
                 "repo": "Ultralight-beef",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -654,7 +689,8 @@
                 "owner": "guofeiyu2022",
                 "repo": "libui-beef",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -669,7 +705,8 @@
                 "owner": "jazzbre",
                 "repo": "nativefiledialog-beef",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "group",
@@ -689,7 +726,8 @@
                     "owner": "RogueMacro",
                     "repo": "imgui-beef",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -704,7 +742,8 @@
                     "owner": "jazzbre",
                     "repo": "imguibgfx-beef",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 },
                 {
                   "node_type": "item",
@@ -719,7 +758,8 @@
                     "owner": "MineGame159",
                     "repo": "imgui-vulkan-beef",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
                 }
               ]
             }
@@ -743,7 +783,8 @@
                 "owner": "RogueMacro",
                 "repo": "Steak.DependencyInjection",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Inversion of Control libraries and frameworks",
@@ -765,7 +806,8 @@
                 "owner": "StbBeef",
                 "repo": "StbImageBeef",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Libraries for image loading and processing",
@@ -787,7 +829,8 @@
                 "owner": "zerkawei",
                 "repo": "Collagen",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Libraries related to interoperability",
@@ -809,7 +852,8 @@
                 "owner": "disarray2077",
                 "repo": "Beef.Linq",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Linq related libraries.",
@@ -831,7 +875,8 @@
                 "owner": "RogueMacro",
                 "repo": "Steak.Logging",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Logging libraries and frameworks.",
@@ -853,7 +898,8 @@
                 "owner": "disarray2077",
                 "repo": "FFmpeg-Beef",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Multimedia related libraries.",
@@ -875,7 +921,8 @@
                 "owner": "LauraRozier",
                 "repo": "Beef-Net",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Networking related libraries",
@@ -897,7 +944,8 @@
                 "owner": "LauraRozier",
                 "repo": "lua-beef",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -912,7 +960,8 @@
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -927,7 +976,8 @@
                 "owner": "disarray2077",
                 "repo": "KeraLua-Beef",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Awesome scripting libraries.",
@@ -949,7 +999,8 @@
                 "owner": "EinScott",
                 "repo": "bon",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -964,7 +1015,8 @@
                 "owner": "xposure",
                 "repo": "Atma.Json",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -979,7 +1031,8 @@
                 "owner": "GlaireDaggers",
                 "repo": "Beef-Toml",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -994,7 +1047,8 @@
                 "owner": "EinScott",
                 "repo": "json",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1009,7 +1063,8 @@
                 "owner": "LauraRozier",
                 "repo": "Xml-Beef",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1024,7 +1079,8 @@
                 "owner": "tomwjerry",
                 "repo": "beef_sead",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Libraries for serializing and parsing text",
@@ -1046,7 +1102,8 @@
                 "owner": "M0n7y5",
                 "repo": "BeefIDE-SimplyDark",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1118,8 @@
                 "owner": "LauraRozier",
                 "repo": "BeefIDE-OneDarkPro",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1076,7 +1134,8 @@
                 "owner": "Jmacklin308",
                 "repo": "BeefIDE-Base16TomorrowDark",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1091,7 +1150,8 @@
                 "owner": "MineBill",
                 "repo": "SimplyLight",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1106,7 +1166,8 @@
                 "owner": "fhornung",
                 "repo": "beef-dracula",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "IDE themes.",
@@ -1128,7 +1189,8 @@
                 "owner": "zerkawei",
                 "repo": "Oregano",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
               "node_type": "item",
@@ -1143,7 +1205,8 @@
                 "owner": "disarray2077",
                 "repo": "TinyRegex",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:57:29.877Z"
             }
           ],
           "description": "Libraries for parsing and manipulating plain texts.",
@@ -1155,7 +1218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:48.513Z",
+    "last_updated": "2026-08-28T06:57:29.877Z",
     "original_repository_info": {
       "archived": false,
       "id": 260760825,
