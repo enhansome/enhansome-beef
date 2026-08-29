@@ -4,7 +4,7 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,808 | 🐛 19 | 🌐 Python | 📅 2026-08-25.
 
 # Summary
 
