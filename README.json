@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beef Programming Language",
+            "homepage": "http://www.beeflang.org",
             "id": 203406425,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T12:05:21Z",
+            "open_issues": 256,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2846
+            "stars": 2846,
+            "topics": [
+              "beef-language",
+              "compiler",
+              "ide",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T06:57:29.877Z"
         }
@@ -34,12 +44,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beef Programming Language",
+                "homepage": "http://www.beeflang.org",
                 "id": 525821957,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-07T12:23:14Z",
+                "open_issues": 1,
                 "owner": "MineGame159",
                 "repo": "Beef",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -65,12 +80,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create, convert, and manipulate color spaces",
+                    "homepage": "https://farism.github.io/RGBeef/html",
                     "id": 560509386,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2022-11-02T05:56:35Z",
+                    "open_issues": 0,
                     "owner": "farism",
                     "repo": "RGBeef",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -88,12 +108,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BeefLang hash library, containing multiple hashing algorithms",
+                    "homepage": null,
                     "id": 308128989,
                     "language": "HyPhy",
+                    "license": "Unlicense",
                     "last_commit": "2020-11-02T19:45:06Z",
+                    "open_issues": 0,
                     "owner": "LauraRozier",
                     "repo": "Beef-Hash",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "beef-language",
+                      "beef-programming-language",
+                      "beeflang",
+                      "hash",
+                      "hashing",
+                      "library"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -104,12 +136,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 343547453,
                     "language": "Beef",
+                    "license": null,
                     "last_commit": "2022-08-24T16:28:47Z",
+                    "open_issues": 0,
                     "owner": "LauraRozier",
                     "repo": "Beef-OpenSSL",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -127,12 +164,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A beeflang port of the FastNoise Lite library.",
+                    "homepage": null,
                     "id": 321053758,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2022-03-31T15:59:09Z",
+                    "open_issues": 0,
                     "owner": "EinScott",
                     "repo": "FastNoise_Beef",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "beef-programming-language",
+                      "cpu",
+                      "noise",
+                      "noise-2d",
+                      "noise-3d",
+                      "noise-algorithms",
+                      "noise-generator",
+                      "noise-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -155,12 +208,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beef Wrapper for 'Bass' Audio Library",
+                "homepage": null,
                 "id": 474404840,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2022-07-10T17:06:50Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "BeefBass",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "audio",
+                  "beef-language",
+                  "effects",
+                  "loopback",
+                  "mixing",
+                  "playback",
+                  "recording"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -171,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FMOD bindings for BeefLang",
+                "homepage": null,
                 "id": 675085062,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2023-08-08T22:02:33Z",
+                "open_issues": 1,
                 "owner": "LauraRozier",
                 "repo": "Beef-FMOD",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -194,12 +265,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "System.Runtime.Caching for BeefLang",
+                "homepage": null,
                 "id": 373272658,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2021-06-06T21:37:33Z",
+                "open_issues": 0,
                 "owner": "LauraRozier",
                 "repo": "System.Caching",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "beef",
+                  "beef-language",
+                  "beef-programming-language",
+                  "beeflang",
+                  "caching"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -217,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CowieCLI is a library for making CLIs in Beef.",
+                "homepage": null,
                 "id": 280658801,
                 "language": "HyPhy",
+                "license": null,
                 "last_commit": "2020-09-05T14:22:33Z",
+                "open_issues": 0,
                 "owner": "RogueMacro",
                 "repo": "CowieCLI",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -240,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "minicoro wrapper for the Beef Programming Language",
+                "homepage": null,
                 "id": 330354791,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2025-03-20T12:39:21Z",
+                "open_issues": 0,
                 "owner": "jazzbre",
                 "repo": "minicoro-beef",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -265,12 +357,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tiny 2D game engine focused on usability and simplicity.",
+                    "homepage": null,
                     "id": 261356521,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2021-12-29T07:52:54Z",
+                    "open_issues": 3,
                     "owner": "MaddyThorson",
                     "repo": "StrawberryBF",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "game-2d",
+                      "game-development",
+                      "game-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -281,12 +384,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beef Language wrapper for Tilengine 2D Graphics Engine",
+                    "homepage": null,
                     "id": 260391868,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-12-17T01:49:45Z",
+                    "open_issues": 1,
                     "owner": "rootbeerking",
                     "repo": "Tilengine-Beef",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "game-engine",
+                      "library"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -304,12 +417,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A raylib binding for Beef programming language",
+                    "homepage": null,
                     "id": 259757148,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2022-04-07T22:32:50Z",
+                    "open_issues": 2,
                     "owner": "M0n7y5",
                     "repo": "raylib-beef",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": [
+                      "beef-language",
+                      "beeflang",
+                      "raylib"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -320,12 +442,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A friendly, extendable game framework for the Beef programming language.",
+                    "homepage": null,
                     "id": 285389433,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2024-07-08T20:44:49Z",
+                    "open_issues": 1,
                     "owner": "EinScott",
                     "repo": "Pile",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "beef-language",
+                      "beef-programming-language",
+                      "game-development",
+                      "game-engine",
+                      "gamedev"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -336,12 +469,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Autogenerated Beef bindings for raylib",
+                    "homepage": null,
                     "id": 616135603,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2026-06-02T21:35:00Z",
+                    "open_issues": 1,
                     "owner": "Starpelly",
                     "repo": "raylib-beef",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "beef-language",
+                      "bindings",
+                      "gamedev",
+                      "raylib"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -359,12 +502,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free, easy, portable audio engine for games",
+                    "homepage": "http://soloud-audio.com",
                     "id": 11425189,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-13T04:10:58Z",
+                    "open_issues": 122,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2167
+                    "stars": 2167,
+                    "topics": [
+                      "audio",
+                      "blitzmax",
+                      "c",
+                      "cpp",
+                      "engine",
+                      "flac",
+                      "game",
+                      "game-development",
+                      "gamemaker",
+                      "mp3",
+                      "ogg",
+                      "opensl-es",
+                      "portable",
+                      "python",
+                      "ruby",
+                      "sound",
+                      "sound-effects",
+                      "speech",
+                      "speech-to-text",
+                      "synthesizer"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -375,12 +544,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenGL loader for Beef",
+                    "homepage": null,
                     "id": 260410756,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2020-06-08T14:51:53Z",
+                    "open_issues": 1,
                     "owner": "MineGame159",
                     "repo": "opengl-beef",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "library",
+                      "opengl"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -391,12 +570,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beef wrapper library for GLFW",
+                    "homepage": null,
                     "id": 260283224,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2023-01-24T15:29:47Z",
+                    "open_issues": 0,
                     "owner": "MineGame159",
                     "repo": "glfw-beef",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "library"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -412,24 +600,52 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+                        "homepage": "https://bkaradzic.github.io/bgfx/overview.html",
                         "id": 3925242,
                         "language": "C++",
-                        "last_commit": "2026-08-27T19:27:49Z",
+                        "license": "BSD-2-Clause",
+                        "last_commit": "2026-08-28T23:37:16Z",
+                        "open_issues": 285,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17437
+                        "stars": 17440,
+                        "topics": [
+                          "d3d11",
+                          "d3d12",
+                          "directx",
+                          "directx-11",
+                          "directx-12",
+                          "engine",
+                          "gamedev",
+                          "gles",
+                          "glfw",
+                          "graphics",
+                          "metal",
+                          "opengl",
+                          "rendering",
+                          "sdl",
+                          "vulkan",
+                          "vulkan-api",
+                          "webgl"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:57:29.877Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bgfx wrapper for the Beef Programming Language",
+                    "homepage": null,
                     "id": 305076831,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2025-08-17T10:13:11Z",
+                    "open_issues": 0,
                     "owner": "jazzbre",
                     "repo": "bgfx-beef",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -440,12 +656,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "box2d+liquidfun wrapper for the Beef Programming Language",
+                    "homepage": null,
                     "id": 349203158,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T12:40:03Z",
+                    "open_issues": 0,
                     "owner": "jazzbre",
                     "repo": "box2d-beef",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -456,12 +677,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 448796354,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2026-03-12T02:40:53Z",
+                    "open_issues": 0,
                     "owner": "SedulousWorks",
                     "repo": "Bulkan",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -472,12 +698,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beef wrapper library for directx",
+                    "homepage": null,
                     "id": 268598567,
                     "language": "Beef",
+                    "license": null,
                     "last_commit": "2026-08-16T16:59:44Z",
+                    "open_issues": 0,
                     "owner": "aharabada",
                     "repo": "directx-beef",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "beef",
+                      "beef-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -488,12 +722,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Beef binding for SDL3",
+                    "homepage": null,
                     "id": 876613410,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2025-06-02T09:47:24Z",
+                    "open_issues": 1,
                     "owner": "Booklordofthedings",
                     "repo": "SDL3-Beef",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "beef",
+                      "beef-programming-language",
+                      "beeflang",
+                      "gamedev",
+                      "gamedev-library",
+                      "sdl",
+                      "sdl3"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -504,12 +751,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beef binding for sokol headers",
+                    "homepage": null,
                     "id": 342204555,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2022-07-01T13:25:28Z",
+                    "open_issues": 0,
                     "owner": "kochol",
                     "repo": "sokol-beef",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "beef-language",
+                      "sokol"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -520,12 +775,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SDL2 wrapper for the Beef Programming Language",
+                    "homepage": null,
                     "id": 324733766,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T12:38:05Z",
+                    "open_issues": 0,
                     "owner": "jazzbre",
                     "repo": "sdl2-beef",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -536,12 +796,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chipmunk2D wrapper for the Beef Programming Language",
+                    "homepage": null,
                     "id": 308263779,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T12:38:23Z",
+                    "open_issues": 0,
                     "owner": "jazzbre",
                     "repo": "Chipmunk2D-beef",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -552,12 +817,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 494836960,
                     "language": "Beef",
+                    "license": null,
                     "last_commit": "2026-03-25T22:24:51Z",
+                    "open_issues": 0,
                     "owner": "SedulousWorks",
                     "repo": "Dxc-Beef",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -568,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WGPU-Beef is a Beef wrapper library for WGPU (more specifically wgpu-native).",
+                    "homepage": null,
                     "id": 494476693,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2023-07-19T07:36:47Z",
+                    "open_issues": 0,
                     "owner": "MineGame159",
                     "repo": "wgpu-beef",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -584,12 +859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "shaderc-beef is a Beef wrapper library for Shaderc.",
+                    "homepage": null,
                     "id": 522311845,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2023-01-12T15:54:59Z",
+                    "open_issues": 0,
                     "owner": "MineGame159",
                     "repo": "shaderc-beef",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -600,12 +880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 494543203,
                     "language": "Beef",
+                    "license": null,
                     "last_commit": "2025-11-02T18:10:19Z",
+                    "open_issues": 0,
                     "owner": "SedulousWorks",
                     "repo": "SPIRV-Cross-Beef",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -628,12 +913,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Beef library for reading and writing AngelCode bitmap fonts in binary, XML, and text.",
+                "homepage": null,
                 "id": 429950010,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2021-11-24T00:11:52Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "BeefFNT",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "angelcode-bitmap-fonts",
+                  "beef-language",
+                  "bitmap-font",
+                  "bmfont",
+                  "fnt"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -651,12 +947,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI Toolkit for Beef",
+                "homepage": null,
                 "id": 416502461,
                 "language": "Beef",
+                "license": null,
                 "last_commit": "2023-08-08T06:36:00Z",
+                "open_issues": 0,
                 "owner": "SteveSmithSoftware",
                 "repo": "Mince",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "gui"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -667,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beef bindings for the Ultralight HTML renderer library",
+                "homepage": null,
                 "id": 385582906,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2022-02-26T00:11:11Z",
+                "open_issues": 0,
                 "owner": "kumikumi",
                 "repo": "Ultralight-beef",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -683,12 +991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Beef language binding for  libui-ng",
+                "homepage": null,
                 "id": 945387653,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2025-04-05T04:01:58Z",
+                "open_issues": 0,
                 "owner": "guofeiyu2022",
                 "repo": "libui-beef",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -699,12 +1012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NativeFileDialog wrapper for the Beef Programming Language",
+                "homepage": null,
                 "id": 325071781,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2025-03-20T12:36:48Z",
+                "open_issues": 0,
                 "owner": "jazzbre",
                 "repo": "nativefiledialog-beef",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -720,12 +1038,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dear ImGui wrapper for the Beef Programming Language",
+                    "homepage": null,
                     "id": 300286701,
                     "language": "Beef",
+                    "license": null,
                     "last_commit": "2023-06-19T06:21:28Z",
+                    "open_issues": 0,
                     "owner": "RogueMacro",
                     "repo": "imgui-beef",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "beef-programming-language",
+                      "dear-imgui-wrapper",
+                      "imgui",
+                      "imgui-glfw",
+                      "imgui-wrapper"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -736,12 +1067,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ImGui wrapper (with built-in Bgfx/SDL2 support) for the Beef Programming Language",
+                    "homepage": null,
                     "id": 309691299,
                     "language": "Beef",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T12:38:47Z",
+                    "open_issues": 0,
                     "owner": "jazzbre",
                     "repo": "imguibgfx-beef",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 },
@@ -752,12 +1088,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vulkan backend for Dear ImGui in Beef",
+                    "homepage": null,
                     "id": 459278148,
                     "language": "Beef",
+                    "license": null,
                     "last_commit": "2022-02-14T18:39:25Z",
+                    "open_issues": 0,
                     "owner": "MineGame159",
                     "repo": "imgui-vulkan-beef",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "beef",
+                      "beef-language",
+                      "beef-programming-language",
+                      "imgui",
+                      "vulkan"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
@@ -777,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple dependency injection library for Beeflang",
+                "homepage": null,
                 "id": 333224762,
                 "language": "HyPhy",
+                "license": null,
                 "last_commit": "2021-02-01T11:02:18Z",
+                "open_issues": 0,
                 "owner": "RogueMacro",
                 "repo": "Steak.DependencyInjection",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -800,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beef Port of stb_image.h",
+                "homepage": null,
                 "id": 341416204,
                 "language": "Beef",
+                "license": "Unlicense",
                 "last_commit": "2022-07-28T01:00:37Z",
+                "open_issues": 0,
                 "owner": "StbBeef",
                 "repo": "StbImageBeef",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -823,12 +1180,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generating C APIs at compile time for Beef projects",
+                "homepage": null,
                 "id": 579144999,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2025-01-18T13:54:49Z",
+                "open_issues": 0,
                 "owner": "zerkawei",
                 "repo": "Collagen",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "api",
+                  "beef-language",
+                  "beef-programming-language",
+                  "beeflang",
+                  "code-generation"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -846,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beef library to mimic .NETs linq, but better and faster",
+                "homepage": null,
                 "id": 634920309,
                 "language": "Beef",
+                "license": null,
                 "last_commit": "2025-12-30T01:00:12Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "Beef.Linq",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -869,12 +1242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A logging library for Beef",
+                "homepage": null,
                 "id": 261439123,
                 "language": "Beef",
+                "license": null,
                 "last_commit": "2022-12-21T17:23:38Z",
+                "open_issues": 0,
                 "owner": "RogueMacro",
                 "repo": "Steak.Logging",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -892,12 +1270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FFmpeg bindings for BeefLang",
+                "homepage": null,
                 "id": 569958060,
                 "language": "Beef",
+                "license": "Unlicense",
                 "last_commit": "2022-11-24T03:19:11Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "FFmpeg-Beef",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -915,12 +1298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BeefLang networking library",
+                "homepage": null,
                 "id": 312919170,
                 "language": "Beef",
+                "license": "Unlicense",
                 "last_commit": "2022-09-02T02:26:11Z",
+                "open_issues": 1,
                 "owner": "LauraRozier",
                 "repo": "Beef-Net",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -938,12 +1326,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BeefLang port of Lua 5.3 and 5.4",
+                "homepage": null,
                 "id": 260762303,
                 "language": "Beef",
+                "license": "Unlicense",
                 "last_commit": "2021-05-28T18:50:22Z",
+                "open_issues": 0,
                 "owner": "LauraRozier",
                 "repo": "lua-beef",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "beef",
+                  "beef-language",
+                  "lua",
+                  "lua-binding"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -954,12 +1352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to bind BeefLang and Lua together.",
+                "homepage": null,
                 "id": 432003746,
                 "language": "Beef",
+                "license": "ISC",
                 "last_commit": "2025-08-22T22:47:52Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -970,12 +1373,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native bindings of Lua 5.4 for BeefLang",
+                "homepage": null,
                 "id": 431970314,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2025-08-22T04:49:06Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "KeraLua-Beef",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "beef-language",
+                  "bindings",
+                  "lua"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -993,12 +1405,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A serialization library for the Beef programming language. Designed to easily serialize and deserialize data structures.",
+                "homepage": null,
                 "id": 442872742,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2026-03-26T17:29:39Z",
+                "open_issues": 0,
                 "owner": "EinScott",
                 "repo": "bon",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "beef-language",
+                  "beef-programming-language",
+                  "beeflang",
+                  "library",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1009,12 +1432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Json serializeration for Beef",
+                "homepage": null,
                 "id": 327111304,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2021-11-05T22:31:47Z",
+                "open_issues": 4,
                 "owner": "xposure",
                 "repo": "Atma.Json",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1025,12 +1453,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple TOML serializer/deserializer for Beef",
+                "homepage": null,
                 "id": 268220988,
                 "language": "HyPhy",
+                "license": "MIT",
                 "last_commit": "2020-07-20T22:03:32Z",
+                "open_issues": 1,
                 "owner": "GlaireDaggers",
                 "repo": "Beef-Toml",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "beef-language",
+                  "beef-programming-language",
+                  "toml",
+                  "toml-parser",
+                  "toml-serializer"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1041,12 +1480,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An arbitrary JSON tree reader and writer for BeefLang.",
+                "homepage": null,
                 "id": 539640226,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2024-04-06T10:40:05Z",
+                "open_issues": 0,
                 "owner": "EinScott",
                 "repo": "json",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "beef-language",
+                  "beef-programming-language",
+                  "beeflang",
+                  "json",
+                  "libary"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1057,12 +1507,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single-file XML library in Beef, heavily based on https://github.com/Dennis1000/verysimplexml/blob/master/Source/Xml.VerySimple.pas",
+                "homepage": null,
                 "id": 311381207,
                 "language": "Beef",
+                "license": "Unlicense",
                 "last_commit": "2024-07-28T18:37:26Z",
+                "open_issues": 2,
                 "owner": "LauraRozier",
                 "repo": "Xml-Beef",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "beef",
+                  "beef-language",
+                  "beeflang",
+                  "library",
+                  "xml",
+                  "xml-parser",
+                  "xml-serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1073,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Enconding And Decocding, base64, URI",
+                "homepage": null,
                 "id": 928990721,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2025-07-21T08:50:58Z",
+                "open_issues": 0,
                 "owner": "tomwjerry",
                 "repo": "beef_sead",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -1096,12 +1564,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Dark Theme for Beef IDE",
+                "homepage": null,
                 "id": 259396251,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-01-30T09:29:59Z",
+                "open_issues": 1,
                 "owner": "M0n7y5",
                 "repo": "BeefIDE-SimplyDark",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "beef-programming-language",
+                  "beeflang",
+                  "dark-theme",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1112,12 +1590,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Atom's iconic One Dark theme for the BeefLang IDE",
+                "homepage": null,
                 "id": 310438360,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2020-11-08T20:46:31Z",
+                "open_issues": 0,
                 "owner": "LauraRozier",
                 "repo": "BeefIDE-OneDarkPro",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "beef-theme",
+                  "beefide",
+                  "beeflang",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1128,12 +1616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Base 16 Tomorrow theme for the Beef Programming language IDE",
+                "homepage": null,
                 "id": 707933185,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-21T04:20:09Z",
+                "open_issues": 0,
                 "owner": "Jmacklin308",
                 "repo": "BeefIDE-Base16TomorrowDark",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1144,12 +1637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Light Theme for the Beef IDE",
+                "homepage": null,
                 "id": 924614765,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-01-31T17:22:45Z",
+                "open_issues": 0,
                 "owner": "MineBill",
                 "repo": "SimplyLight",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1160,12 +1658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dracula Theme for Beef programming language IDE ",
+                "homepage": null,
                 "id": 439528139,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-17T22:43:29Z",
+                "open_issues": 0,
                 "owner": "fhornung",
                 "repo": "beef-dracula",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -1183,12 +1686,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regex engine for the Beef programming language",
+                "homepage": null,
                 "id": 803366852,
                 "language": "Beef",
+                "license": "MIT",
                 "last_commit": "2024-06-14T12:53:01Z",
+                "open_issues": 0,
                 "owner": "zerkawei",
                 "repo": "Oregano",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "beef-language",
+                  "beef-programming-language",
+                  "beeflang",
+                  "regex",
+                  "regex-engine"
+                ]
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
@@ -1199,12 +1713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small regex implementation in BeefLang",
+                "homepage": null,
                 "id": 428864907,
                 "language": "Beef",
+                "license": "Unlicense",
                 "last_commit": "2022-01-19T01:49:05Z",
+                "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "TinyRegex",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
             }
@@ -1218,15 +1737,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:29.877Z",
+    "last_updated": "2026-08-29T04:13:19.636Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Beef framework, libraries and resources",
+      "homepage": null,
       "id": 260760825,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-20T01:31:21Z",
+      "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
-      "stars": 262
+      "stars": 262,
+      "topics": [
+        "awesome-list",
+        "beef",
+        "beef-language",
+        "beef-programming-language"
+      ]
     },
     "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
     "enhanced_repository": "enhansome/enhansome-beef",
