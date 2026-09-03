@@ -336,7 +336,7 @@
                 "open_issues": 0,
                 "owner": "jazzbre",
                 "repo": "minicoro-beef",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
@@ -605,11 +605,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-09-01T23:47:02Z",
+                        "last_commit": "2026-09-02T16:48:06Z",
                         "open_issues": 287,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17450,
+                        "stars": 17451,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:04:46.419Z",
+    "last_updated": "2026-09-03T01:10:43.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
