@@ -15,7 +15,7 @@
             "id": 203406425,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T19:30:48Z",
+            "last_commit": "2026-09-09T08:04:20Z",
             "open_issues": 256,
             "owner": "beefytech",
             "repo": "Beef",
@@ -308,7 +308,7 @@
                 "open_issues": 0,
                 "owner": "RogueMacro",
                 "repo": "CowieCLI",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
@@ -609,7 +609,7 @@
                         "open_issues": 285,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17469,
+                        "stars": 17474,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -1047,7 +1047,7 @@
                     "open_issues": 0,
                     "owner": "RogueMacro",
                     "repo": "imgui-beef",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": [
                       "beef",
                       "beef-language",
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:17:09.768Z",
+    "last_updated": "2026-09-10T01:09:54.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1749,7 +1749,7 @@
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
-      "stars": 261,
+      "stars": 262,
       "topics": [
         "awesome-list",
         "beef",
