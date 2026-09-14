@@ -605,11 +605,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-09-12T22:43:04Z",
+                        "last_commit": "2026-09-14T00:54:42Z",
                         "open_issues": 284,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17474,
+                        "stars": 17483,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:07:08.769Z",
+    "last_updated": "2026-09-14T01:12:45.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
