@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T18:08:38Z",
-            "open_issues": 257,
+            "open_issues": 263,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2849,
+            "stars": 2852,
             "topics": [
               "beef-language",
               "compiler",
@@ -366,7 +366,7 @@
                     "open_issues": 3,
                     "owner": "MaddyThorson",
                     "repo": "StrawberryBF",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "beef",
                       "beef-language",
@@ -478,7 +478,7 @@
                     "open_issues": 1,
                     "owner": "Starpelly",
                     "repo": "raylib-beef",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "beef-language",
                       "bindings",
@@ -605,8 +605,8 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-09-18T01:05:42Z",
-                        "open_issues": 285,
+                        "last_commit": "2026-09-18T13:41:59Z",
+                        "open_issues": 284,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
                         "stars": 17491,
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:19:04.482Z",
+    "last_updated": "2026-09-19T01:17:11.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1749,7 +1749,7 @@
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
-      "stars": 264,
+      "stars": 265,
       "topics": [
         "awesome-list",
         "beef",
