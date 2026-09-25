@@ -4,7 +4,7 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 322,584 | 🐛 21 | 🌐 Python | 📅 2026-09-23.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 322,799 | 🐛 21 | 🌐 Python | 📅 2026-09-23.
 
 # Summary
 
@@ -49,7 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 322,58
 
 *The official documentation and resource for the Beef programming language.*
 
-* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,857 | 🐛 258 | 🌐 C++ | 📅 2026-09-22 - Repository hosting the language and its associated IDE.
+* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,857 | 🐛 262 | 🌐 C++ | 📅 2026-09-24 - Repository hosting the language and its associated IDE.
 * [Official website](https://beeflang.org) - Official website of the Beef programming language.
 * [Official documentation](https://beeflang.org/docs) - Official documentation explaining how the language works and its philosophy.
 * [Corelib documentation](https://www.beeflang.org/docs/doxygen/corlib/html/index.html) - Auto generated documentation for the core library.
@@ -129,15 +129,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 322,58
 * [Opengl-beef](https://github.com/MineGame159/opengl-beef) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2020-06-08 - OpenGL loader for Beef.
 * [Glfw-beef](https://github.com/MineGame159/glfw-beef) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2023-01-24 - Beef wrapper library for GLFW.
 * [BGFX-beef](https://github.com/jazzbre/bgfx-beef) ⭐ 12 | 🐛 0 | 🌐 Beef | 📅 2025-08-17 - A Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-  * Also linked in the official [BGFX repository](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,498 | 🐛 285 | 🌐 C++ | 📅 2026-09-19.
+  * Also linked in the official [BGFX repository](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,502 | 🐛 284 | 🌐 C++ | 📅 2026-09-24.
 * [Box2D-beef](https://github.com/jazzbre/box2d-beef) ⭐ 11 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - 2D physics engine for games.
 * [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
 * [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-08-16 - Beef wrapper library for Direct3D 11.
 * [SDL3-Beef](https://github.com/Booklordofthedings/SDL3-Beef) ⭐ 9 | 🐛 1 | 🌐 Beef | 📅 2025-06-02 - A binding for SDL3 to Beef, trying to be as close to the original interface as possible.
-* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for [sokol](https://github.com/floooh/sokol) ⭐ 10,309 | 🐛 132 | 🌐 C | 📅 2026-09-23 headers.
+* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for [sokol](https://github.com/floooh/sokol) ⭐ 10,315 | 🐛 132 | 🌐 C | 📅 2026-09-23 headers.
 * [SDL2-beef](https://github.com/jazzbre/sdl2-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-03-20 - SDL2 Wrapper, synced with SDL2 shipped with Beef.
 * [Chipmunk2D-beef](https://github.com/jazzbre/Chipmunk2D-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - A simple, lightweight, fast and portable 2D rigid body physics library.
-* [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,653 | 🐛 767 | 🌐 C++ | 📅 2026-09-23 bindings
+* [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,653 | 🐛 761 | 🌐 C++ | 📅 2026-09-24 bindings
 * [WGPU-beef](https://github.com/MineGame159/wgpu-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2023-07-19 - Beef wrapper library for WGPU (more specifically wgpu-native).
 * [Shaderc-beef](https://github.com/MineGame159/shaderc-beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2023-01-12 - A Beef wrapper library for [Shaderc](https://github.com/google/shaderc) ⭐ 2,186 | 🐛 169 | 🌐 C++ | 📅 2026-09-14.
 * [SPIRV-Cross-Beef](https://github.com/jayrulez/SPIRV-Cross-Beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2025-11-02 - SPIRV-Cross bindings.
@@ -260,4 +260,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
