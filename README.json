@@ -511,7 +511,7 @@
                     "open_issues": 123,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2180,
+                    "stars": 2182,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -605,7 +605,7 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-01T01:21:48Z",
+                        "last_commit": "2026-10-01T19:01:51Z",
                         "open_issues": 283,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:12:34.183Z",
+    "last_updated": "2026-10-02T02:19:02.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
