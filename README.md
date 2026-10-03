@@ -4,7 +4,7 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,762 | 🐛 20 | 🌐 Python | 📅 2026-10-02.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,779 | 🐛 21 | 🌐 Python | 📅 2026-10-02.
 
 # Summary
 
@@ -129,7 +129,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,76
 * [Opengl-beef](https://github.com/MineGame159/opengl-beef) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2020-06-08 - OpenGL loader for Beef.
 * [Glfw-beef](https://github.com/MineGame159/glfw-beef) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2023-01-24 - Beef wrapper library for GLFW.
 * [BGFX-beef](https://github.com/jazzbre/bgfx-beef) ⭐ 12 | 🐛 0 | 🌐 Beef | 📅 2025-08-17 - A Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-  * Also linked in the official [BGFX repository](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,532 | 🐛 285 | 🌐 C++ | 📅 2026-10-03.
+  * Also linked in the official [BGFX repository](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,531 | 🐛 285 | 🌐 C++ | 📅 2026-10-03.
 * [Box2D-beef](https://github.com/jazzbre/box2d-beef) ⭐ 11 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - 2D physics engine for games.
 * [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 10 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
 * [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 10 | 🐛 0 | 🌐 Beef | 📅 2026-08-16 - Beef wrapper library for Direct3D 11.
@@ -254,9 +254,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,76
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Jonathan-Racaud/awesome-beef/blob/master/CONTRIBUTING.md) ⭐ 270 | 🐛 0 | 📅 2026-07-20 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Jonathan-Racaud/awesome-beef/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Jonathan-Racaud/awesome-beef/pulls) ⭐ 270 | 🐛 0 | 📅 2026-07-20 by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Jonathan-Racaud/awesome-beef/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 ***
 

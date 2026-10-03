@@ -596,7 +596,7 @@
                     {
                       "node_type": "item",
                       "title": "Also linked in the official BGFX repository",
-                      "description": ".",
+                      "description": "bkaradzic/bgfx",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -609,7 +609,7 @@
                         "open_issues": 285,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17532,
+                        "stars": 17531,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:04:59.724Z",
+    "last_updated": "2026-10-03T04:36:52.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
