@@ -19,7 +19,7 @@
             "open_issues": 264,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2862,
+            "stars": 2863,
             "topics": [
               "beef-language",
               "compiler",
@@ -511,7 +511,7 @@
                     "open_issues": 123,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2182,
+                    "stars": 2183,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -605,11 +605,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-04T02:09:59Z",
+                        "last_commit": "2026-10-04T15:45:02Z",
                         "open_issues": 285,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17536,
+                        "stars": 17541,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:44:17.424Z",
+    "last_updated": "2026-10-05T02:04:30.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
