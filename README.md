@@ -4,7 +4,7 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,428 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,513 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
 
 # Summary
 
@@ -134,7 +134,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,42
 * [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 10 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
 * [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 10 | 🐛 0 | 🌐 Beef | 📅 2026-08-16 - Beef wrapper library for Direct3D 11.
 * [SDL3-Beef](https://github.com/Booklordofthedings/SDL3-Beef) ⭐ 10 | 🐛 1 | 🌐 Beef | 📅 2025-06-02 - A binding for SDL3 to Beef, trying to be as close to the original interface as possible.
-* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for [sokol](https://github.com/floooh/sokol) ⭐ 10,340 | 🐛 132 | 🌐 C | 📅 2026-10-05 headers.
+* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for [sokol](https://github.com/floooh/sokol) ⭐ 10,342 | 🐛 131 | 🌐 C | 📅 2026-10-06 headers.
 * [SDL2-beef](https://github.com/jazzbre/sdl2-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-03-20 - SDL2 Wrapper, synced with SDL2 shipped with Beef.
 * [Chipmunk2D-beef](https://github.com/jazzbre/Chipmunk2D-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - A simple, lightweight, fast and portable 2D rigid body physics library.
 * [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,659 | 🐛 759 | 🌐 C++ | 📅 2026-10-06 bindings
