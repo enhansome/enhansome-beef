@@ -15,8 +15,8 @@
             "id": 203406425,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T17:55:33Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-07T00:15:42Z",
+            "open_issues": 260,
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2863,
@@ -478,7 +478,7 @@
                     "open_issues": 1,
                     "owner": "Starpelly",
                     "repo": "raylib-beef",
-                    "stars": 26,
+                    "stars": 25,
                     "topics": [
                       "beef-language",
                       "bindings",
@@ -609,7 +609,7 @@
                         "open_issues": 285,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17542,
+                        "stars": 17543,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -686,7 +686,7 @@
                     "open_issues": 0,
                     "owner": "SedulousWorks",
                     "repo": "Bulkan",
-                    "stars": 10,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
@@ -707,7 +707,7 @@
                     "open_issues": 0,
                     "owner": "aharabada",
                     "repo": "directx-beef",
-                    "stars": 10,
+                    "stars": 9,
                     "topics": [
                       "beef",
                       "beef-language"
@@ -731,7 +731,7 @@
                     "open_issues": 1,
                     "owner": "Booklordofthedings",
                     "repo": "SDL3-Beef",
-                    "stars": 10,
+                    "stars": 9,
                     "topics": [
                       "beef",
                       "beef-programming-language",
@@ -1223,7 +1223,7 @@
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "Beef.Linq",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
@@ -1307,7 +1307,7 @@
                 "open_issues": 1,
                 "owner": "LauraRozier",
                 "repo": "Beef-Net",
-                "stars": 9,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
@@ -1695,7 +1695,7 @@
                 "open_issues": 0,
                 "owner": "zerkawei",
                 "repo": "Oregano",
-                "stars": 2,
+                "stars": 1,
                 "topics": [
                   "beef-language",
                   "beef-programming-language",
@@ -1722,7 +1722,7 @@
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "TinyRegex",
-                "stars": 2,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
@@ -1737,7 +1737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:22.720Z",
+    "last_updated": "2026-10-07T02:27:54.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
