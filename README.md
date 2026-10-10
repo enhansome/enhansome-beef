@@ -4,13 +4,12 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,940 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,174 | 🐛 22 | 🌐 Python | 📅 2026-10-09.
 
 # Summary
 
 * [Official Resources](#official-resources)
 * [Tools](#tools)
-  * [Installers](#installers)
   * [LSP](#lsp)
   * [Editors](#editors)
   * [Binding Generators](#binding-generators)
@@ -29,6 +28,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
     * [Libraries](#libraries)
   * [Font](#font)
   * [GUI](#gui)
+    * [ImGui](#imgui)
   * [IoC](#ioc)
   * [Image](#image)
   * [Interoperability](#interoperability)
@@ -42,14 +42,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
   * [Text Processing](#text-processing)
 * [Projects and Articles](#projects-and-articles)
   * [Dynamic Linking](#dynamic-linking)
-  * [Networking](#networking)
+  * [Networking](#networking-1)
 * [Contributing](#contributing)
 
-# Official resources
+# Official Resources
 
 *The official documentation and resource for the Beef programming language.*
 
-* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,863 | 🐛 258 | 🌐 C++ | 📅 2026-10-08 - Repository hosting the language and its associated IDE.
+* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,863 | 🐛 259 | 🌐 C++ | 📅 2026-10-10 - Repository hosting the language and its associated IDE.
 * [Official website](https://beeflang.org) - Official website of the Beef programming language.
 * [Official documentation](https://beeflang.org/docs) - Official documentation explaining how the language works and its philosophy.
 * [Corelib documentation](https://www.beeflang.org/docs/doxygen/corlib/html/index.html) - Auto generated documentation for the core library.
@@ -58,11 +58,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
 
 ## LSP
 
-[Beef LSP](https://github.com/MineGame159/Beef/tree/lsp/BeefLsp) ⭐ 9 | 🐛 1 | 🌐 C++ | 📅 2023-07-07 - An unofficial LSP server which works with any LSP-compatible editor and a Visual Studio Code extension.
+* [Beef LSP](https://github.com/MineGame159/Beef/tree/lsp/BeefLsp) ⭐ 9 | 🐛 1 | 🌐 C++ | 📅 2023-07-07 - An unofficial LSP server which works with any LSP-compatible editor and a Visual Studio Code extension.
 
 ## Editors
 
-[Try Beef](https://trybeef.netlify.app/) - A web based editor for compiling and running simple Beef programs.
+* [Try Beef](https://trybeef.netlify.app/) - A web based editor for compiling and running simple Beef programs.
 
 ## Binding Generators
 
@@ -125,21 +125,24 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
 
 ### Libraries
 
-* [SoLoud-beef](https://github.com/jarikomppa/soloud) ⭐ 2,183 | 🐛 121 | 🌐 C | 📅 2024-08-13 - easy to use, free, portable c/c++ audio engine for games.
+* [SoLoud-beef](https://github.com/jarikomppa/soloud) ⭐ 2,182 | 🐛 121 | 🌐 C | 📅 2024-08-13 - easy to use, free, portable c/c++ audio engine for games.
 * [Opengl-beef](https://github.com/MineGame159/opengl-beef) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2020-06-08 - OpenGL loader for Beef.
 * [Glfw-beef](https://github.com/MineGame159/glfw-beef) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2023-01-24 - Beef wrapper library for GLFW.
 * [BGFX-beef](https://github.com/jazzbre/bgfx-beef) ⭐ 12 | 🐛 0 | 🌐 Beef | 📅 2025-08-17 - A Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-  * Also linked in the official [BGFX repository](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,545 | 🐛 285 | 🌐 C++ | 📅 2026-10-09.
+  * [Also linked in the official BGFX repository.](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,546 | 🐛 284 | 🌐 C++ | 📅 2026-10-09
 * [Box2D-beef](https://github.com/jazzbre/box2d-beef) ⭐ 11 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - 2D physics engine for games.
 * [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
 * [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-08-16 - Beef wrapper library for Direct3D 11.
 * [SDL3-Beef](https://github.com/Booklordofthedings/SDL3-Beef) ⭐ 9 | 🐛 1 | 🌐 Beef | 📅 2025-06-02 - A binding for SDL3 to Beef, trying to be as close to the original interface as possible.
-* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for [sokol](https://github.com/floooh/sokol) ⭐ 10,348 | 🐛 131 | 🌐 C | 📅 2026-10-08 headers.
+* [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for sokol headers.
+  * [sokol](https://github.com/floooh/sokol) ⭐ 10,350 | 🐛 131 | 🌐 C | 📅 2026-10-08
 * [SDL2-beef](https://github.com/jazzbre/sdl2-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-03-20 - SDL2 Wrapper, synced with SDL2 shipped with Beef.
 * [Chipmunk2D-beef](https://github.com/jazzbre/Chipmunk2D-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - A simple, lightweight, fast and portable 2D rigid body physics library.
-* [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,659 | 🐛 751 | 🌐 C++ | 📅 2026-10-07 bindings
+* [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - DirectXShaderCompiler bindings.
+  * [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,661 | 🐛 754 | 🌐 C++ | 📅 2026-10-09
 * [WGPU-beef](https://github.com/MineGame159/wgpu-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2023-07-19 - Beef wrapper library for WGPU (more specifically wgpu-native).
-* [Shaderc-beef](https://github.com/MineGame159/shaderc-beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2023-01-12 - A Beef wrapper library for [Shaderc](https://github.com/google/shaderc) ⭐ 2,190 | 🐛 166 | 🌐 C++ | 📅 2026-10-02.
+* [Shaderc-beef](https://github.com/MineGame159/shaderc-beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2023-01-12 - A Beef wrapper library for Shaderc.
+  * [Shaderc](https://github.com/google/shaderc) ⭐ 2,190 | 🐛 166 | 🌐 C++ | 📅 2026-10-02
 * [SPIRV-Cross-Beef](https://github.com/jayrulez/SPIRV-Cross-Beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2025-11-02 - SPIRV-Cross bindings.
 * [Vulkan-Beef](https://git.unicon-gmbh.de/Rune/Vulkan-Beef) - Vulkan Bindings for Beef similar to Vulkan-Hpp.
 
@@ -153,12 +156,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
 
 * [Mince](https://github.com/SteveSmithSoftware/Mince) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2023-08-08 - A GUI Toolkit for use with the Beef Programming Language.
 * [Ultralight-beef](https://github.com/kumikumi/Ultralight-beef) ⭐ 8 | 🐛 0 | 🌐 Beef | 📅 2022-02-26 - Write UI code for your game/application with web technologies (HTML/CSS/JS) using a lightweight web renderer.
-* [LibUI-beef](https://github.com/guofeiyu2022/libui-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2025-04-05 - A libui-ng binding for Beeflang
+* [LibUI-beef](https://github.com/guofeiyu2022/libui-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2025-04-05 - A libui-ng binding for Beeflang.
 * [NativeFileDialog-beef](https://github.com/jazzbre/nativefiledialog-beef) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - Portable library to invoke native file dialogs.
-* ImGui
-  * [ImGui-beef](https://github.com/RogueMacro/imgui-beef) ⭐ 26 | 🐛 0 | 🌐 Beef | 📅 2023-06-19 - Beef wrapper library for ImGui.
-  * [ImGuibgfx-beef](https://github.com/jazzbre/imguibgfx-beef) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - ImGui wrapper using SDL2 and BGFX.
-  * [ImGui-Vulkan-beef](https://github.com/MineGame159/imgui-vulkan-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2022-02-14 - Vulkan backend for Dear ImGui in Beef.
+
+### ImGui
+
+* [ImGui-beef](https://github.com/RogueMacro/imgui-beef) ⭐ 26 | 🐛 0 | 🌐 Beef | 📅 2023-06-19 - Beef wrapper library for ImGui.
+* [ImGuibgfx-beef](https://github.com/jazzbre/imguibgfx-beef) ⭐ 5 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - ImGui wrapper using SDL2 and BGFX.
+* [ImGui-Vulkan-beef](https://github.com/MineGame159/imgui-vulkan-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2022-02-14 - Vulkan backend for Dear ImGui in Beef.
 
 ## IoC
 
@@ -200,14 +205,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
 
 *Networking related libraries*
 
-* [Beef-Net](https://github.com/thibmo/Beef-Net) ⭐ 8 | 🐛 1 | 🌐 Beef | 📅 2022-09-02 - BeefLang networking library, based on lNet
+* [Beef-Net](https://github.com/thibmo/Beef-Net) ⭐ 8 | 🐛 1 | 🌐 Beef | 📅 2022-09-02 - BeefLang networking library, based on lNet.
 
 ## Scripting Engines
 
 *Awesome scripting libraries.*
 
 * [Lua-beef](https://github.com/thibmo/lua-beef) ⭐ 8 | 🐛 0 | 🌐 Beef | 📅 2021-05-28 - BeefLang wrapper library for Lua.
-* [LuaTinker-Beef](https://github.com/disarray2077/LuaTinker-Beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2026-10-08 - A library to bind BeefLang and Lua together.
+* [LuaTinker-Beef](https://github.com/disarray2077/LuaTinker-Beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2026-10-09 - A library to bind BeefLang and Lua together.
 * [KeraLua-Beef](https://github.com/disarray2077/KeraLua-Beef) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2026-09-27 - Native bindings of Lua 5.4 for BeefLang.
 
 ## Serialization
@@ -250,14 +255,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,94
 
 * [SampleListener](https://github.com/jairopaiva/SampleListener) ⭐ 1 | 🐛 1 | 🌐 HyPhy | 📅 2020-09-15 - Example of an echo server showing the use of System.Net.Socket to listen for clients connections.
 
-***
-
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Jonathan-Racaud/awesome-beef/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Jonathan-Racaud/awesome-beef/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

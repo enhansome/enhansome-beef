@@ -15,8 +15,8 @@
             "id": 203406425,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T21:56:44Z",
-            "open_issues": 258,
+            "last_commit": "2026-10-10T01:02:47Z",
+            "open_issues": 259,
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2863,
@@ -30,7 +30,7 @@
           "first_seen": "2026-08-28T06:57:29.877Z"
         }
       ],
-      "title": "Official resources"
+      "title": "Official Resources"
     },
     {
       "description": null,
@@ -511,7 +511,7 @@
                     "open_issues": 121,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2183,
+                    "stars": 2182,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -595,7 +595,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Also linked in the official BGFX repository",
+                      "title": "Also linked in the official BGFX repository.",
                       "description": "bkaradzic/bgfx",
                       "children": [],
                       "repo_info": {
@@ -605,11 +605,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-09T02:17:43Z",
-                        "open_issues": 285,
+                        "last_commit": "2026-10-09T04:47:05Z",
+                        "open_issues": 284,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17545,
+                        "stars": 17546,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -748,7 +748,29 @@
                   "node_type": "item",
                   "title": "sokol-beef",
                   "description": "Auto generated library for sokol headers.",
-                  "children": [],
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "sokol",
+                      "description": "floooh/sokol",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "minimal cross-platform standalone C headers",
+                        "homepage": "https://floooh.github.io/sokol-html5",
+                        "id": 97212490,
+                        "language": "C",
+                        "license": "Zlib",
+                        "last_commit": "2026-10-08T17:14:29Z",
+                        "open_issues": 131,
+                        "owner": "floooh",
+                        "repo": "sokol",
+                        "stars": 10350,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-10T02:24:52.035Z"
+                    }
+                  ],
                   "repo_info": {
                     "archived": false,
                     "description": "Beef binding for sokol headers",
@@ -813,8 +835,35 @@
                 {
                   "node_type": "item",
                   "title": "Dxc-Beef",
-                  "description": "DirectXShaderCompiler bindings",
-                  "children": [],
+                  "description": "DirectXShaderCompiler bindings.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DirectXShaderCompiler",
+                      "description": "microsoft/DirectXShaderCompiler",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.",
+                        "homepage": null,
+                        "id": 75787966,
+                        "language": "C++",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-10-09T22:06:57Z",
+                        "open_issues": 754,
+                        "owner": "microsoft",
+                        "repo": "DirectXShaderCompiler",
+                        "stars": 3661,
+                        "topics": [
+                          "directx-shader-compiler",
+                          "dxil",
+                          "hlsl",
+                          "shader-programs"
+                        ]
+                      },
+                      "first_seen": "2026-10-10T02:24:52.035Z"
+                    }
+                  ],
                   "repo_info": {
                     "archived": false,
                     "description": null,
@@ -856,7 +905,39 @@
                   "node_type": "item",
                   "title": "Shaderc-beef",
                   "description": "A Beef wrapper library for Shaderc.",
-                  "children": [],
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Shaderc",
+                      "description": "google/shaderc",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A collection of tools, libraries, and tests for Vulkan shader compilation.",
+                        "homepage": null,
+                        "id": 40277133,
+                        "language": "C++",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-10-02T03:49:00Z",
+                        "open_issues": 166,
+                        "owner": "google",
+                        "repo": "shaderc",
+                        "stars": 2190,
+                        "topics": [
+                          "compiler",
+                          "glsl",
+                          "glslang",
+                          "graphics",
+                          "hlsl",
+                          "shaderc",
+                          "spirv",
+                          "spirv-cross",
+                          "vulkan"
+                        ]
+                      },
+                      "first_seen": "2026-10-10T02:24:52.035Z"
+                    }
+                  ],
                   "repo_info": {
                     "archived": false,
                     "description": "shaderc-beef is a Beef wrapper library for Shaderc.",
@@ -987,7 +1068,7 @@
             {
               "node_type": "item",
               "title": "LibUI-beef",
-              "description": "A libui-ng binding for Beeflang",
+              "description": "A libui-ng binding for Beeflang.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1027,9 +1108,6 @@
               "first_seen": "2026-08-28T06:57:29.877Z"
             },
             {
-              "node_type": "group",
-              "title": "ImGui",
-              "description": null,
               "children": [
                 {
                   "node_type": "item",
@@ -1108,7 +1186,10 @@
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
                 }
-              ]
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ImGui"
             }
           ],
           "description": "Libraries and frameworks for general GUI programming",
@@ -1294,7 +1375,7 @@
             {
               "node_type": "item",
               "title": "Beef-Net",
-              "description": "BeefLang networking library, based on lNet",
+              "description": "BeefLang networking library, based on lNet.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1357,7 +1438,7 @@
                 "id": 432003746,
                 "language": "Beef",
                 "license": "ISC",
-                "last_commit": "2026-10-08T20:05:37Z",
+                "last_commit": "2026-10-09T22:08:57Z",
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
@@ -1737,15 +1818,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:58:39.317Z",
+    "last_updated": "2026-10-10T02:24:52.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
-      "homepage": null,
+      "homepage": "https://jonathan-racaud.github.io/awesome-beef/",
       "id": 260760825,
-      "language": null,
-      "license": null,
-      "last_commit": "2026-07-20T01:31:21Z",
+      "language": "Python",
+      "license": "NOASSERTION",
+      "last_commit": "2026-10-09T10:34:08Z",
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
@@ -1757,7 +1838,7 @@
         "beef-programming-language"
       ]
     },
-    "original_repository_sha": "3b72fdc6b7e8ebad5c01104e0427bddbc43fa1b1",
+    "original_repository_sha": "2cdc2c3fea6572aa15cec4e42eae1edc97571399",
     "enhanced_repository": "enhansome/enhansome-beef",
     "enhanced_repository_description": null,
     "title": "Awesome Beef with stars"
