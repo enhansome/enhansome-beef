@@ -4,7 +4,7 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,174 | 🐛 22 | 🌐 Python | 📅 2026-10-09.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,409 | 🐛 24 | 🌐 Python | 📅 2026-10-10.
 
 # Summary
 
@@ -19,6 +19,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,17
     * [Cryptography and Hashing](#cryptography-and-hashing)
     * [Noise](#noise)
   * [Audio](#audio)
+  * [Bindings](#bindings)
   * [Caching](#caching)
   * [Command Line Interface Development](#command-line-interface-development)
   * [Coroutines](#coroutines)
@@ -49,7 +50,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,17
 
 *The official documentation and resource for the Beef programming language.*
 
-* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,863 | 🐛 259 | 🌐 C++ | 📅 2026-10-10 - Repository hosting the language and its associated IDE.
+* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,864 | 🐛 260 | 🌐 C++ | 📅 2026-10-10 - Repository hosting the language and its associated IDE.
 * [Official website](https://beeflang.org) - Official website of the Beef programming language.
 * [Official documentation](https://beeflang.org/docs) - Official documentation explaining how the language works and its philosophy.
 * [Corelib documentation](https://www.beeflang.org/docs/doxygen/corlib/html/index.html) - Auto generated documentation for the core library.
@@ -92,6 +93,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,17
 * [BeefBass](https://github.com/disarray2077/BeefBass) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2022-07-10 - Beef Wrapper for the 'Bass' Audio Library.
 * [Beef-FMOD](https://github.com/LauraRozier/Beef-FMOD) ⭐ 1 | 🐛 1 | 🌐 Beef | 📅 2023-08-08 - Beef bindings for the FMOD audio processing library.
 
+## Bindings
+
+* [Win32-Beef](https://github.com/SedulousWorks/Win32-Beef) ⭐ 7 | 🐛 1 | 🌐 Beef | 📅 2026-01-01 - Beef bindings for Win32
+
 ## Caching
 
 * [System.Caching](https://github.com/thibmo/System.Caching) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2021-06-06 - A BeefLang implementation of .net System.Runtime.Caching, useful to prevent double-triggering, response caching, data caching, etc.
@@ -129,20 +134,20 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,17
 * [Opengl-beef](https://github.com/MineGame159/opengl-beef) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2020-06-08 - OpenGL loader for Beef.
 * [Glfw-beef](https://github.com/MineGame159/glfw-beef) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2023-01-24 - Beef wrapper library for GLFW.
 * [BGFX-beef](https://github.com/jazzbre/bgfx-beef) ⭐ 12 | 🐛 0 | 🌐 Beef | 📅 2025-08-17 - A Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-  * [Also linked in the official BGFX repository.](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,546 | 🐛 284 | 🌐 C++ | 📅 2026-10-09
+  * [Also linked in the official BGFX repository.](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,549 | 🐛 284 | 🌐 C++ | 📅 2026-10-09
 * [Box2D-beef](https://github.com/jazzbre/box2d-beef) ⭐ 11 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - 2D physics engine for games.
 * [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
 * [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-08-16 - Beef wrapper library for Direct3D 11.
 * [SDL3-Beef](https://github.com/Booklordofthedings/SDL3-Beef) ⭐ 9 | 🐛 1 | 🌐 Beef | 📅 2025-06-02 - A binding for SDL3 to Beef, trying to be as close to the original interface as possible.
 * [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for sokol headers.
-  * [sokol](https://github.com/floooh/sokol) ⭐ 10,350 | 🐛 131 | 🌐 C | 📅 2026-10-08
+  * [sokol](https://github.com/floooh/sokol) ⭐ 10,355 | 🐛 131 | 🌐 C | 📅 2026-10-10
 * [SDL2-beef](https://github.com/jazzbre/sdl2-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-03-20 - SDL2 Wrapper, synced with SDL2 shipped with Beef.
 * [Chipmunk2D-beef](https://github.com/jazzbre/Chipmunk2D-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - A simple, lightweight, fast and portable 2D rigid body physics library.
 * [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - DirectXShaderCompiler bindings.
   * [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,661 | 🐛 754 | 🌐 C++ | 📅 2026-10-09
 * [WGPU-beef](https://github.com/MineGame159/wgpu-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2023-07-19 - Beef wrapper library for WGPU (more specifically wgpu-native).
 * [Shaderc-beef](https://github.com/MineGame159/shaderc-beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2023-01-12 - A Beef wrapper library for Shaderc.
-  * [Shaderc](https://github.com/google/shaderc) ⭐ 2,190 | 🐛 166 | 🌐 C++ | 📅 2026-10-02
+  * [Shaderc](https://github.com/google/shaderc) ⭐ 2,191 | 🐛 168 | 🌐 C++ | 📅 2026-10-02
 * [SPIRV-Cross-Beef](https://github.com/jayrulez/SPIRV-Cross-Beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2025-11-02 - SPIRV-Cross bindings.
 * [Vulkan-Beef](https://git.unicon-gmbh.de/Rune/Vulkan-Beef) - Vulkan Bindings for Beef similar to Vulkan-Hpp.
 
@@ -212,7 +217,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,17
 *Awesome scripting libraries.*
 
 * [Lua-beef](https://github.com/thibmo/lua-beef) ⭐ 8 | 🐛 0 | 🌐 Beef | 📅 2021-05-28 - BeefLang wrapper library for Lua.
-* [LuaTinker-Beef](https://github.com/disarray2077/LuaTinker-Beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2026-10-09 - A library to bind BeefLang and Lua together.
+* [LuaTinker-Beef](https://github.com/disarray2077/LuaTinker-Beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2026-10-10 - A library to bind BeefLang and Lua together.
 * [KeraLua-Beef](https://github.com/disarray2077/KeraLua-Beef) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2026-09-27 - Native bindings of Lua 5.4 for BeefLang.
 
 ## Serialization
@@ -263,4 +268,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
