@@ -539,7 +539,7 @@
                     "open_issues": 121,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2182,
+                    "stars": 2183,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-12T02:17:58Z",
-                        "open_issues": 288,
+                        "last_commit": "2026-10-12T23:49:22Z",
+                        "open_issues": 284,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17552,
+                        "stars": 17550,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-10-11T14:20:26Z",
-                        "open_issues": 132,
+                        "last_commit": "2026-10-12T12:09:35Z",
+                        "open_issues": 130,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10356,
+                        "stars": 10360,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -878,7 +878,7 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-09T22:06:57Z",
-                        "open_issues": 754,
+                        "open_issues": 756,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
                         "stars": 3663,
@@ -1466,7 +1466,7 @@
                 "id": 432003746,
                 "language": "Beef",
                 "license": "ISC",
-                "last_commit": "2026-10-11T20:09:08Z",
+                "last_commit": "2026-10-12T23:31:59Z",
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
@@ -1487,7 +1487,7 @@
                 "id": 431970314,
                 "language": "Beef",
                 "license": "MIT",
-                "last_commit": "2026-09-27T15:10:38Z",
+                "last_commit": "2026-10-12T16:03:12Z",
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "KeraLua-Beef",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:29:01.830Z",
+    "last_updated": "2026-10-13T03:38:05.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1854,7 +1854,7 @@
       "id": 260760825,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-10T12:33:03Z",
+      "last_commit": "2026-10-12T09:51:41Z",
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
@@ -1866,7 +1866,7 @@
         "beef-programming-language"
       ]
     },
-    "original_repository_sha": "1899942185200e1f050b2862f6d610051d7f43ec",
+    "original_repository_sha": "ca54808d2ea7a947bbe373d69cc9af1839949299",
     "enhanced_repository": "enhansome/enhansome-beef",
     "enhanced_repository_description": null,
     "title": "Awesome Beef with stars"
