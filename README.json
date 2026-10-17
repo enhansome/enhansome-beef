@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T17:57:11Z",
-            "open_issues": 259,
+            "open_issues": 260,
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2866,
@@ -539,7 +539,7 @@
                     "open_issues": 121,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2182,
+                    "stars": 2184,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-15T05:29:32Z",
-                        "open_issues": 116,
+                        "last_commit": "2026-10-17T00:39:02Z",
+                        "open_issues": 81,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17563,
+                        "stars": 17566,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -714,7 +714,7 @@
                     "open_issues": 0,
                     "owner": "SedulousWorks",
                     "repo": "Bulkan",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:29.877Z"
@@ -793,7 +793,7 @@
                         "open_issues": 130,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10368,
+                        "stars": 10370,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -877,11 +877,11 @@
                         "id": 75787966,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-16T00:07:34Z",
-                        "open_issues": 761,
+                        "last_commit": "2026-10-16T19:52:18Z",
+                        "open_issues": 764,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
-                        "stars": 3665,
+                        "stars": 3668,
                         "topics": [
                           "directx-shader-compiler",
                           "dxil",
@@ -1466,7 +1466,7 @@
                 "id": 432003746,
                 "language": "Beef",
                 "license": "ISC",
-                "last_commit": "2026-10-14T22:44:37Z",
+                "last_commit": "2026-10-16T04:06:29Z",
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:28:55.438Z",
+    "last_updated": "2026-10-17T01:21:14.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
