@@ -19,7 +19,7 @@
             "open_issues": 261,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2866,
+            "stars": 2867,
             "topics": [
               "beef-language",
               "compiler",
@@ -539,7 +539,7 @@
                     "open_issues": 121,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2185,
+                    "stars": 2186,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -637,7 +637,7 @@
                         "open_issues": 71,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17568,
+                        "stars": 17571,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-10-17T14:26:45Z",
+                        "last_commit": "2026-10-18T08:20:43Z",
                         "open_issues": 131,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10370,
+                        "stars": 10373,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -950,7 +950,7 @@
                         "open_issues": 169,
                         "owner": "google",
                         "repo": "shaderc",
-                        "stars": 2193,
+                        "stars": 2194,
                         "topics": [
                           "compiler",
                           "glsl",
@@ -1470,7 +1470,7 @@
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:29.877Z"
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:10:57.038Z",
+    "last_updated": "2026-10-19T01:21:48.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
