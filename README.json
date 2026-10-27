@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T01:16:54Z",
-            "open_issues": 259,
+            "open_issues": 261,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2870,
+            "stars": 2871,
             "topics": [
               "beef-language",
               "compiler",
@@ -506,7 +506,7 @@
                     "open_issues": 1,
                     "owner": "Starpelly",
                     "repo": "raylib-beef",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": [
                       "beef-language",
                       "bindings",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-24T04:47:22Z",
-                        "open_issues": 69,
+                        "last_commit": "2026-10-26T04:30:11Z",
+                        "open_issues": 66,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17589,
+                        "stars": 17593,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-10-25T16:36:09Z",
+                        "last_commit": "2026-10-26T21:42:58Z",
                         "open_issues": 135,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10384,
+                        "stars": 10388,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -877,11 +877,11 @@
                         "id": 75787966,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-23T22:12:10Z",
-                        "open_issues": 774,
+                        "last_commit": "2026-10-26T16:48:57Z",
+                        "open_issues": 773,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
-                        "stars": 3675,
+                        "stars": 3678,
                         "topics": [
                           "directx-shader-compiler",
                           "dxil",
@@ -946,8 +946,8 @@
                         "id": 40277133,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-24T17:27:58Z",
-                        "open_issues": 170,
+                        "last_commit": "2026-10-26T15:42:50Z",
+                        "open_issues": 168,
                         "owner": "google",
                         "repo": "shaderc",
                         "stars": 2197,
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:18:30.540Z",
+    "last_updated": "2026-10-27T02:09:04.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1854,7 +1854,7 @@
       "id": 260760825,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-20T06:39:28Z",
+      "last_commit": "2026-10-26T08:11:23Z",
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
@@ -1866,7 +1866,7 @@
         "beef-programming-language"
       ]
     },
-    "original_repository_sha": "e9f647559d2d660a53631af6a3f49c26110bfe22",
+    "original_repository_sha": "edfb72949167ba68ac7265a2d0874d408681a6d6",
     "enhanced_repository": "enhansome/enhansome-beef",
     "enhanced_repository_description": null,
     "title": "Awesome Beef with stars"
