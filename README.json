@@ -15,8 +15,8 @@
             "id": 203406425,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T11:03:04Z",
-            "open_issues": 256,
+            "last_commit": "2026-10-30T20:48:51Z",
+            "open_issues": 255,
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2872,
@@ -637,7 +637,7 @@
                         "open_issues": 65,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17596,
+                        "stars": 17598,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -793,7 +793,7 @@
                         "open_issues": 133,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10396,
+                        "stars": 10398,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -877,11 +877,11 @@
                         "id": 75787966,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-29T23:02:22Z",
+                        "last_commit": "2026-10-30T17:34:12Z",
                         "open_issues": 782,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
-                        "stars": 3682,
+                        "stars": 3683,
                         "topics": [
                           "directx-shader-compiler",
                           "dxil",
@@ -1462,11 +1462,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "A library to bind BeefLang and Lua together.",
-                "homepage": null,
+                "homepage": "https://disarray2077.github.io/LuaTinker-Beef/",
                 "id": 432003746,
                 "language": "Beef",
                 "license": "ISC",
-                "last_commit": "2026-10-16T04:06:29Z",
+                "last_commit": "2026-10-30T22:43:25Z",
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:40:31.182Z",
+    "last_updated": "2026-10-31T02:29:53.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
