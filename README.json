@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T20:48:51Z",
-            "open_issues": 255,
+            "open_issues": 256,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2873,
+            "stars": 2872,
             "topics": [
               "beef-language",
               "compiler",
@@ -539,7 +539,7 @@
                     "open_issues": 121,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2190,
+                    "stars": 2191,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-10-31T23:49:23Z",
+                        "last_commit": "2026-11-01T04:02:40Z",
                         "open_issues": 65,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17600,
+                        "stars": 17601,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-10-31T16:52:46Z",
-                        "open_issues": 133,
+                        "last_commit": "2026-11-01T16:26:38Z",
+                        "open_issues": 129,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10400,
+                        "stars": 10401,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -834,6 +834,27 @@
                     "open_issues": 0,
                     "owner": "jazzbre",
                     "repo": "sdl2-beef",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "WGPU-beef",
+                  "description": "Beef wrapper library for WGPU (more specifically wgpu-native).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WGPU-Beef is a Beef wrapper library for WGPU (more specifically wgpu-native).",
+                    "homepage": null,
+                    "id": 494476693,
+                    "language": "Beef",
+                    "license": "MIT",
+                    "last_commit": "2023-07-19T07:36:47Z",
+                    "open_issues": 0,
+                    "owner": "MineGame159",
+                    "repo": "wgpu-beef",
                     "stars": 4,
                     "topics": []
                   },
@@ -903,27 +924,6 @@
                     "open_issues": 0,
                     "owner": "SedulousWorks",
                     "repo": "Dxc-Beef",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:29.877Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "WGPU-beef",
-                  "description": "Beef wrapper library for WGPU (more specifically wgpu-native).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "WGPU-Beef is a Beef wrapper library for WGPU (more specifically wgpu-native).",
-                    "homepage": null,
-                    "id": 494476693,
-                    "language": "Beef",
-                    "license": "MIT",
-                    "last_commit": "2023-07-19T07:36:47Z",
-                    "open_issues": 0,
-                    "owner": "MineGame159",
-                    "repo": "wgpu-beef",
                     "stars": 3,
                     "topics": []
                   },
@@ -1153,7 +1153,7 @@
                     "open_issues": 0,
                     "owner": "RogueMacro",
                     "repo": "imgui-beef",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": [
                       "beef",
                       "beef-language",
@@ -1466,7 +1466,7 @@
                 "id": 432003746,
                 "language": "Beef",
                 "license": "ISC",
-                "last_commit": "2026-10-31T16:11:28Z",
+                "last_commit": "2026-11-01T22:11:20Z",
                 "open_issues": 0,
                 "owner": "disarray2077",
                 "repo": "LuaTinker-Beef",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:19:23.851Z",
+    "last_updated": "2026-11-02T02:35:25.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1858,7 +1858,7 @@
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
-      "stars": 270,
+      "stars": 271,
       "topics": [
         "awesome-list",
         "beef",
