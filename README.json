@@ -15,8 +15,8 @@
             "id": 203406425,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T20:48:51Z",
-            "open_issues": 256,
+            "last_commit": "2026-11-02T11:46:32Z",
+            "open_issues": 255,
             "owner": "beefytech",
             "repo": "Beef",
             "stars": 2872,
@@ -637,7 +637,7 @@
                         "open_issues": 65,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17601,
+                        "stars": 17604,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-11-01T16:26:38Z",
-                        "open_issues": 129,
+                        "last_commit": "2026-11-02T12:57:05Z",
+                        "open_issues": 130,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10401,
+                        "stars": 10404,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -898,8 +898,8 @@
                         "id": 75787966,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-30T17:34:12Z",
-                        "open_issues": 783,
+                        "last_commit": "2026-11-03T00:43:12Z",
+                        "open_issues": 781,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
                         "stars": 3685,
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:35:25.106Z",
+    "last_updated": "2026-11-03T03:56:59.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1854,7 +1854,7 @@
       "id": 260760825,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-26T08:11:23Z",
+      "last_commit": "2026-11-02T10:08:30Z",
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
@@ -1866,7 +1866,7 @@
         "beef-programming-language"
       ]
     },
-    "original_repository_sha": "edfb72949167ba68ac7265a2d0874d408681a6d6",
+    "original_repository_sha": "2389c8188f78fc0afdb96c90bf905f1dbfcbfbee",
     "enhanced_repository": "enhansome/enhansome-beef",
     "enhanced_repository_description": null,
     "title": "Awesome Beef with stars"
