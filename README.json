@@ -15,11 +15,11 @@
             "id": 203406425,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T19:45:53Z",
+            "last_commit": "2026-11-06T15:17:43Z",
             "open_issues": 254,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2874,
+            "stars": 2875,
             "topics": [
               "beef-language",
               "compiler",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-11-06T01:11:41Z",
+                        "last_commit": "2026-11-06T20:50:06Z",
                         "open_issues": 66,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17613,
+                        "stars": 17622,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -721,6 +721,35 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SDL3-Beef",
+                  "description": "A binding for SDL3 to Beef, trying to be as close to the original interface as possible.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Beef binding for SDL3",
+                    "homepage": null,
+                    "id": 876613410,
+                    "language": "Beef",
+                    "license": "MIT",
+                    "last_commit": "2025-06-02T09:47:24Z",
+                    "open_issues": 1,
+                    "owner": "Booklordofthedings",
+                    "repo": "SDL3-Beef",
+                    "stars": 10,
+                    "topics": [
+                      "beef",
+                      "beef-programming-language",
+                      "beeflang",
+                      "gamedev",
+                      "gamedev-library",
+                      "sdl",
+                      "sdl3"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T06:57:29.877Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "directx-beef",
                   "description": "Beef wrapper library for Direct3D 11.",
                   "children": [],
@@ -745,35 +774,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "SDL3-Beef",
-                  "description": "A binding for SDL3 to Beef, trying to be as close to the original interface as possible.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Beef binding for SDL3",
-                    "homepage": null,
-                    "id": 876613410,
-                    "language": "Beef",
-                    "license": "MIT",
-                    "last_commit": "2025-06-02T09:47:24Z",
-                    "open_issues": 1,
-                    "owner": "Booklordofthedings",
-                    "repo": "SDL3-Beef",
-                    "stars": 9,
-                    "topics": [
-                      "beef",
-                      "beef-programming-language",
-                      "beeflang",
-                      "gamedev",
-                      "gamedev-library",
-                      "sdl",
-                      "sdl3"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:57:29.877Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "sokol-beef",
                   "description": "Auto generated library for sokol headers.",
                   "children": [
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-11-05T18:46:56Z",
+                        "last_commit": "2026-11-06T17:32:43Z",
                         "open_issues": 127,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10413,
+                        "stars": 10422,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -899,10 +899,10 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-06T00:40:54Z",
-                        "open_issues": 782,
+                        "open_issues": 784,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
-                        "stars": 3692,
+                        "stars": 3694,
                         "topics": [
                           "directx-shader-compiler",
                           "dxil",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:28:56.267Z",
+    "last_updated": "2026-11-07T02:54:04.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
@@ -1858,7 +1858,7 @@
       "open_issues": 0,
       "owner": "Jonathan-Racaud",
       "repo": "awesome-beef",
-      "stars": 271,
+      "stars": 272,
       "topics": [
         "awesome-list",
         "beef",
