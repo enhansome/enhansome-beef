@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-11-06T20:50:06Z",
+                        "last_commit": "2026-11-07T23:46:16Z",
                         "open_issues": 66,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17622,
+                        "stars": 17627,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -790,10 +790,10 @@
                         "language": "C",
                         "license": "Zlib",
                         "last_commit": "2026-11-06T17:32:43Z",
-                        "open_issues": 127,
+                        "open_issues": 128,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10422,
+                        "stars": 10424,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -902,7 +902,7 @@
                         "open_issues": 784,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
-                        "stars": 3694,
+                        "stars": 3693,
                         "topics": [
                           "directx-shader-compiler",
                           "dxil",
@@ -950,7 +950,7 @@
                         "open_issues": 167,
                         "owner": "google",
                         "repo": "shaderc",
-                        "stars": 2198,
+                        "stars": 2197,
                         "topics": [
                           "compiler",
                           "glsl",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:54:04.118Z",
+    "last_updated": "2026-11-08T02:32:56.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
