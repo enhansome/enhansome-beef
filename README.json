@@ -633,8 +633,8 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-11-07T23:46:16Z",
-                        "open_issues": 66,
+                        "last_commit": "2026-11-09T02:39:40Z",
+                        "open_issues": 67,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
                         "stars": 17627,
@@ -789,8 +789,8 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-11-06T17:32:43Z",
-                        "open_issues": 128,
+                        "last_commit": "2026-11-08T14:54:33Z",
+                        "open_issues": 127,
                         "owner": "floooh",
                         "repo": "sokol",
                         "stars": 10424,
@@ -902,7 +902,7 @@
                         "open_issues": 784,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
-                        "stars": 3693,
+                        "stars": 3695,
                         "topics": [
                           "directx-shader-compiler",
                           "dxil",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:32:56.249Z",
+    "last_updated": "2026-11-09T02:43:50.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
