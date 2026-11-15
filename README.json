@@ -19,7 +19,7 @@
             "open_issues": 258,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2879,
+            "stars": 2880,
             "topics": [
               "beef-language",
               "compiler",
@@ -454,7 +454,7 @@
                     "open_issues": 2,
                     "owner": "M0n7y5",
                     "repo": "raylib-beef",
-                    "stars": 53,
+                    "stars": 52,
                     "topics": [
                       "beef-language",
                       "beeflang",
@@ -539,7 +539,7 @@
                     "open_issues": 121,
                     "owner": "jarikomppa",
                     "repo": "soloud",
-                    "stars": 2195,
+                    "stars": 2194,
                     "topics": [
                       "audio",
                       "blitzmax",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-11-14T02:56:00Z",
+                        "last_commit": "2026-11-14T19:51:04Z",
                         "open_issues": 66,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17643,
+                        "stars": 17645,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -899,7 +899,7 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-13T01:22:24Z",
-                        "open_issues": 794,
+                        "open_issues": 795,
                         "owner": "microsoft",
                         "repo": "DirectXShaderCompiler",
                         "stars": 3697,
@@ -950,7 +950,7 @@
                         "open_issues": 169,
                         "owner": "google",
                         "repo": "shaderc",
-                        "stars": 2196,
+                        "stars": 2197,
                         "topics": [
                           "compiler",
                           "glsl",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:22:48.684Z",
+    "last_updated": "2026-11-15T02:48:26.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
