@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T11:26:40Z",
-            "open_issues": 258,
+            "open_issues": 262,
             "owner": "beefytech",
             "repo": "Beef",
-            "stars": 2880,
+            "stars": 2881,
             "topics": [
               "beef-language",
               "compiler",
@@ -633,11 +633,11 @@
                         "id": 3925242,
                         "language": "C++",
                         "license": "BSD-2-Clause",
-                        "last_commit": "2026-11-14T19:51:04Z",
+                        "last_commit": "2026-11-15T17:25:37Z",
                         "open_issues": 66,
                         "owner": "bkaradzic",
                         "repo": "bgfx",
-                        "stars": 17645,
+                        "stars": 17651,
                         "topics": [
                           "d3d11",
                           "d3d12",
@@ -789,11 +789,11 @@
                         "id": 97212490,
                         "language": "C",
                         "license": "Zlib",
-                        "last_commit": "2026-11-13T17:11:15Z",
+                        "last_commit": "2026-11-15T20:01:36Z",
                         "open_issues": 129,
                         "owner": "floooh",
                         "repo": "sokol",
-                        "stars": 10434,
+                        "stars": 10437,
                         "topics": []
                       },
                       "first_seen": "2026-10-10T02:24:52.035Z"
@@ -950,7 +950,7 @@
                         "open_issues": 169,
                         "owner": "google",
                         "repo": "shaderc",
-                        "stars": 2197,
+                        "stars": 2198,
                         "topics": [
                           "compiler",
                           "glsl",
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:48:26.088Z",
+    "last_updated": "2026-11-16T02:50:23.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Beef framework, libraries and resources",
