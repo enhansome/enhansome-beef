@@ -4,7 +4,7 @@
 
 A curated list of awesome Beef frameworks, libraries and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,732 | 🐛 20 | 🌐 Python | 📅 2026-11-17.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,913 | 🐛 21 | 🌐 Python | 📅 2026-11-17.
 
 # Summary
 
@@ -51,7 +51,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,73
 
 *The official documentation and resource for the Beef programming language.*
 
-* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,880 | 🐛 257 | 🌐 C++ | 📅 2026-11-17 - Repository hosting the language and its associated IDE.
+* [Official repository](https://github.com/beefytech/Beef) ⭐ 2,879 | 🐛 254 | 🌐 C++ | 📅 2026-11-19 - Repository hosting the language and its associated IDE.
 * [Official website](https://beeflang.org) - Official website of the Beef programming language.
 * [Official documentation](https://beeflang.org/docs) - Official documentation explaining how the language works and its philosophy.
 * [Corelib documentation](https://www.beeflang.org/docs/doxygen/corlib/html/index.html) - Auto generated documentation for the core library.
@@ -135,18 +135,18 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,73
 * [Opengl-beef](https://github.com/MineGame159/opengl-beef) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2020-06-08 - OpenGL loader for Beef.
 * [Glfw-beef](https://github.com/MineGame159/glfw-beef) ⭐ 16 | 🐛 0 | 🌐 Beef | 📅 2023-01-24 - Beef wrapper library for GLFW.
 * [BGFX-beef](https://github.com/jazzbre/bgfx-beef) ⭐ 12 | 🐛 0 | 🌐 Beef | 📅 2025-08-17 - A Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-  * [Also linked in the official BGFX repository.](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,654 | 🐛 66 | 🌐 C++ | 📅 2026-11-18
+  * [Also linked in the official BGFX repository.](https://github.com/bkaradzic/bgfx/tree/master/bindings/bf) ⭐ 17,654 | 🐛 66 | 🌐 C++ | 📅 2026-11-19
 * [Box2D-beef](https://github.com/jazzbre/box2d-beef) ⭐ 11 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - 2D physics engine for games.
 * [Bulkan](https://github.com/jayrulez/Bulkan) ⭐ 10 | 🐛 0 | 🌐 Beef | 📅 2026-03-12 - Low level Vulkan bindings.
 * [SDL3-Beef](https://github.com/Booklordofthedings/SDL3-Beef) ⭐ 10 | 🐛 1 | 🌐 Beef | 📅 2025-06-02 - A binding for SDL3 to Beef, trying to be as close to the original interface as possible.
 * [directx-beef](https://github.com/aharabada/directx-beef) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2026-08-16 - Beef wrapper library for Direct3D 11.
 * [sokol-beef](https://github.com/kochol/sokol-beef) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-07-01 - Auto generated library for sokol headers.
-  * [sokol](https://github.com/floooh/sokol) ⭐ 10,445 | 🐛 130 | 🌐 C | 📅 2026-11-18
+  * [sokol](https://github.com/floooh/sokol) ⭐ 10,448 | 🐛 130 | 🌐 C | 📅 2026-11-19
 * [SDL2-beef](https://github.com/jazzbre/sdl2-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-03-20 - SDL2 Wrapper, synced with SDL2 shipped with Beef.
 * [WGPU-beef](https://github.com/MineGame159/wgpu-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2023-07-19 - Beef wrapper library for WGPU (more specifically wgpu-native).
 * [Chipmunk2D-beef](https://github.com/jazzbre/Chipmunk2D-beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - A simple, lightweight, fast and portable 2D rigid body physics library.
 * [Dxc-Beef](https://github.com/jayrulez/Dxc-Beef) ⭐ 3 | 🐛 0 | 🌐 Beef | 📅 2026-03-25 - DirectXShaderCompiler bindings.
-  * [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,699 | 🐛 793 | 🌐 C++ | 📅 2026-11-19
+  * [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) ⭐ 3,699 | 🐛 782 | 🌐 C++ | 📅 2026-11-19
 * [Shaderc-beef](https://github.com/MineGame159/shaderc-beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2023-01-12 - A Beef wrapper library for Shaderc.
   * [Shaderc](https://github.com/google/shaderc) ⭐ 2,200 | 🐛 170 | 🌐 C++ | 📅 2026-11-13
 * [SPIRV-Cross-Beef](https://github.com/jayrulez/SPIRV-Cross-Beef) ⭐ 1 | 🐛 0 | 🌐 Beef | 📅 2025-11-02 - SPIRV-Cross bindings.
@@ -162,7 +162,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,73
 
 * [Mince](https://github.com/SteveSmithSoftware/Mince) ⭐ 9 | 🐛 0 | 🌐 Beef | 📅 2023-08-08 - A GUI Toolkit for use with the Beef Programming Language.
 * [Ultralight-beef](https://github.com/kumikumi/Ultralight-beef) ⭐ 8 | 🐛 0 | 🌐 Beef | 📅 2022-02-26 - Write UI code for your game/application with web technologies (HTML/CSS/JS) using a lightweight web renderer.
-* [LibUI-beef](https://github.com/guofeiyu2022/libui-beef) ⭐ 4 | 🐛 0 | 🌐 Beef | 📅 2025-04-05 - A libui-ng binding for Beeflang.
+* [LibUI-beef](https://github.com/guofeiyu2022/libui-beef) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-11-19 - A libui-ng binding for Beeflang.
 * [NativeFileDialog-beef](https://github.com/jazzbre/nativefiledialog-beef) ⭐ 2 | 🐛 0 | 🌐 Beef | 📅 2025-03-20 - Portable library to invoke native file dialogs.
 
 ### ImGui
@@ -274,4 +274,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
